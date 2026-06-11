@@ -1,0 +1,1048 @@
+[
+  {
+    "id": 1,
+    "section": "hoeren-1",
+    "prompt": "Was soll Frau Siebert tun?",
+    "answer": "b",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "die Kinder später in den Kindergarten bringen."
+      },
+      {
+        "id": "b",
+        "text": "die Kinder nicht in den Kindergarten bringen."
+      },
+      {
+        "id": "c",
+        "text": "die anderen Eltern informieren."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "section": "hoeren-1",
+    "prompt": "Was soll Herr Röschel als erstes tun?",
+    "answer": "a",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "das Krankenhaus zurückrufen."
+      },
+      {
+        "id": "b",
+        "text": "den Krankentransport bezahlen."
+      },
+      {
+        "id": "c",
+        "text": "seine Mutter ins Krankenhaus bringen."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "section": "hoeren-1",
+    "prompt": "Was soll Frau Berger tun?",
+    "answer": "c",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "den Installateur rufen."
+      },
+      {
+        "id": "b",
+        "text": "die Polizei rufen."
+      },
+      {
+        "id": "c",
+        "text": "zu ihrer Wohnung kommen."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "section": "hoeren-1",
+    "prompt": "Was soll Herr Sorger tun?",
+    "answer": "a",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "den Hustensaft in der Apotheke abholen."
+      },
+      {
+        "id": "b",
+        "text": "den Spezialhustensaft beim Hausarzt bestellen."
+      },
+      {
+        "id": "c",
+        "text": "bei der Krankenkasse bezahlen £ £ £ 4 ÖIF Sie hören vier Ansagen. Zu jeder Ansage gibt es eine Aufgabe. Welche Lösung (a, b oder c) passt am besten? Markieren Sie Ihre Lösungen für die Aufgaben 1-4 auf dem Antwortbogen."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "section": "hoeren-2",
+    "prompt": "Einen Geisterfahrer gibt es.",
+    "answer": "c",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "auf der A1 Westautobahn."
+      },
+      {
+        "id": "b",
+        "text": "auf der A10 Tauernautobahn."
+      },
+      {
+        "id": "c",
+        "text": "auf der A2 Südautobahn."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "section": "hoeren-2",
+    "prompt": "In der Feinkostabteilung gibt es.",
+    "answer": "c",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "nur Produkte aus Italien billiger."
+      },
+      {
+        "id": "b",
+        "text": "nur Produkte aus dem Meer billiger."
+      },
+      {
+        "id": "c",
+        "text": "alle Produkte aus den Mittelmeer-Ländern billiger."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "section": "hoeren-2",
+    "prompt": "Das Wetter am Wochenende.",
+    "answer": "b",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "bleibt gleich."
+      },
+      {
+        "id": "b",
+        "text": "wird immer besser."
+      },
+      {
+        "id": "c",
+        "text": "wird immer schlechter."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "section": "hoeren-2",
+    "prompt": "Was hören Sie?",
+    "answer": "c",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "ein Gespräch über Musik."
+      },
+      {
+        "id": "b",
+        "text": "eine Verkehrsmeldung."
+      },
+      {
+        "id": "c",
+        "text": "eine Vorschau zum Kulturprogramm."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "section": "hoeren-2",
+    "prompt": "Auf der Auto-Messe kann man.",
+    "answer": "b",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "ein Elektroauto gewinnen."
+      },
+      {
+        "id": "b",
+        "text": "ein anderes Auto gewinnen."
+      },
+      {
+        "id": "c",
+        "text": "viel Geld gewinnen."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "section": "hoeren-3",
+    "prompt": "Frau Berger hat sich für den Job schon einmal beworben.",
+    "answer": "richtig",
+    "options": [
+      {
+        "id": "richtig",
+        "text": "richtig"
+      },
+      {
+        "id": "falsch",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "section": "hoeren-3",
+    "prompt": "Frau Berger.",
+    "answer": "a",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "hat viel Erfahrung mit Kunden und Kundinnen."
+      },
+      {
+        "id": "b",
+        "text": "hat gute Fremdsprachenkenntnisse."
+      },
+      {
+        "id": "c",
+        "text": "hat Seminare und Workshops zum Thema Kommunikation geleitet."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "section": "hoeren-3",
+    "prompt": "Die Frau und der Mann sind Nachbarn.",
+    "answer": "falsch",
+    "options": [
+      {
+        "id": "richtig",
+        "text": "richtig"
+      },
+      {
+        "id": "falsch",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "section": "hoeren-3",
+    "prompt": "Die Frau.",
+    "answer": "b",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "kommt gratis zu Herrn Meier."
+      },
+      {
+        "id": "b",
+        "text": "kommt regelmäßig zu Herrn Meier."
+      },
+      {
+        "id": "c",
+        "text": "kommt nicht gerne zu Herrn Meier."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "section": "hoeren-3",
+    "prompt": "Die Frau ist überrascht über das Jobangebot.",
+    "answer": "richtig",
+    "options": [
+      {
+        "id": "richtig",
+        "text": "richtig"
+      },
+      {
+        "id": "falsch",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "section": "hoeren-3",
+    "prompt": "Die Frau.",
+    "answer": "c",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "spricht Ungarisch und Türkisch."
+      },
+      {
+        "id": "b",
+        "text": "arbeitet schon fix als Dolmetscherin."
+      },
+      {
+        "id": "c",
+        "text": "sucht eine Arbeit als Dolmetscherin."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "section": "hoeren-3",
+    "prompt": "Die Frau verreist für längere Zeit.",
+    "answer": "richtig",
+    "options": [
+      {
+        "id": "richtig",
+        "text": "richtig"
+      },
+      {
+        "id": "falsch",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "section": "hoeren-3",
+    "prompt": "Dominik.",
+    "answer": "b",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "wohnt in einer anderen Stadt."
+      },
+      {
+        "id": "b",
+        "text": "wohnt in der Nähe."
+      },
+      {
+        "id": "c",
+        "text": "kann gut mit Pflanzen umgehen."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "section": "hoeren-4",
+    "prompt": "Aussage 18",
+    "answer": "e",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Es gibt Menschen, die sind gerne in der Nacht aktiv und schlafen wenig in der Nacht."
+      },
+      {
+        "id": "b",
+        "text": "Wer am Tag schwer arbeitet, soll in der Nacht viel schlafen und sich erholen."
+      },
+      {
+        "id": "c",
+        "text": "Wer weniger als sieben Stunden schläft, kann tagsüber oft an Müdigkeit leiden."
+      },
+      {
+        "id": "d",
+        "text": "Es ist sehr gesund, wenn man mehr als 8 Stunden täglich schläft."
+      },
+      {
+        "id": "e",
+        "text": "Manche Menschen sagen, es ist gut, vor 24.00 Uhr ins Bett zu gehen."
+      },
+      {
+        "id": "f",
+        "text": "Wer Sport betreibt und sich gut ernährt, braucht manchmal weniger Schlaf."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "section": "hoeren-4",
+    "prompt": "Aussage 19",
+    "answer": "f",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Es gibt Menschen, die sind gerne in der Nacht aktiv und schlafen wenig in der Nacht."
+      },
+      {
+        "id": "b",
+        "text": "Wer am Tag schwer arbeitet, soll in der Nacht viel schlafen und sich erholen."
+      },
+      {
+        "id": "c",
+        "text": "Wer weniger als sieben Stunden schläft, kann tagsüber oft an Müdigkeit leiden."
+      },
+      {
+        "id": "d",
+        "text": "Es ist sehr gesund, wenn man mehr als 8 Stunden täglich schläft."
+      },
+      {
+        "id": "e",
+        "text": "Manche Menschen sagen, es ist gut, vor 24.00 Uhr ins Bett zu gehen."
+      },
+      {
+        "id": "f",
+        "text": "Wer Sport betreibt und sich gut ernährt, braucht manchmal weniger Schlaf."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "section": "hoeren-4",
+    "prompt": "Aussage 20",
+    "answer": "a",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Es gibt Menschen, die sind gerne in der Nacht aktiv und schlafen wenig in der Nacht."
+      },
+      {
+        "id": "b",
+        "text": "Wer am Tag schwer arbeitet, soll in der Nacht viel schlafen und sich erholen."
+      },
+      {
+        "id": "c",
+        "text": "Wer weniger als sieben Stunden schläft, kann tagsüber oft an Müdigkeit leiden."
+      },
+      {
+        "id": "d",
+        "text": "Es ist sehr gesund, wenn man mehr als 8 Stunden täglich schläft."
+      },
+      {
+        "id": "e",
+        "text": "Manche Menschen sagen, es ist gut, vor 24.00 Uhr ins Bett zu gehen."
+      },
+      {
+        "id": "f",
+        "text": "Wer Sport betreibt und sich gut ernährt, braucht manchmal weniger Schlaf."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "section": "lesen-1",
+    "prompt": "Sie suchen ein Buch für ein 9-jähriges Kind.",
+    "answer": "c",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "UG."
+      },
+      {
+        "id": "b",
+        "text": "EG."
+      },
+      {
+        "id": "c",
+        "text": "anderes Stockwerk."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "section": "lesen-1",
+    "prompt": "Sie möchten gerne selbst eine neue Sprache lernen und suchen dafür Hör-CD´s.",
+    "answer": "b",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "1. OG."
+      },
+      {
+        "id": "b",
+        "text": "3. OG."
+      },
+      {
+        "id": "c",
+        "text": "anderes Stockwerk."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "section": "lesen-1",
+    "prompt": "Sie interessieren sich für die österreichische Geschichte vor 300 Jahren.",
+    "answer": "a",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "2. OG."
+      },
+      {
+        "id": "b",
+        "text": "UG."
+      },
+      {
+        "id": "c",
+        "text": "anderes Stockwerk."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "section": "lesen-1",
+    "prompt": "Sie möchten gerne ein Buch ausleihen und ein anderes zurückgeben.",
+    "answer": "b",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "3. OG."
+      },
+      {
+        "id": "b",
+        "text": "EG."
+      },
+      {
+        "id": "c",
+        "text": "anderes Stockwerk."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "section": "lesen-1",
+    "prompt": "Sie suchen Bücher mit Informationen darüber, wie man eine Firma gründet.",
+    "answer": "c",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "3. OG."
+      },
+      {
+        "id": "b",
+        "text": "1. OG."
+      },
+      {
+        "id": "c",
+        "text": "anderes Stockwerk."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "section": "lesen-2",
+    "prompt": "Sie möchten Deutsch lernen, haben aber am Freitag, Samstag und Sonntag keine Zeit.",
+    "answer": "d",
+    "options": [
+      {
+        "id": "a",
+        "text": "Anzeige a"
+      },
+      {
+        "id": "b",
+        "text": "Anzeige b"
+      },
+      {
+        "id": "c",
+        "text": "Anzeige c"
+      },
+      {
+        "id": "d",
+        "text": "Anzeige d"
+      },
+      {
+        "id": "e",
+        "text": "Anzeige e"
+      },
+      {
+        "id": "f",
+        "text": "Anzeige f"
+      },
+      {
+        "id": "g",
+        "text": "Anzeige g"
+      },
+      {
+        "id": "h",
+        "text": "Anzeige h"
+      },
+      {
+        "id": "x",
+        "text": "keine L?sung"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "section": "lesen-2",
+    "prompt": "Sie suchen eine Firma, die Ihnen beim Übersiedeln hilft.",
+    "answer": "b",
+    "options": [
+      {
+        "id": "a",
+        "text": "Anzeige a"
+      },
+      {
+        "id": "b",
+        "text": "Anzeige b"
+      },
+      {
+        "id": "c",
+        "text": "Anzeige c"
+      },
+      {
+        "id": "d",
+        "text": "Anzeige d"
+      },
+      {
+        "id": "e",
+        "text": "Anzeige e"
+      },
+      {
+        "id": "f",
+        "text": "Anzeige f"
+      },
+      {
+        "id": "g",
+        "text": "Anzeige g"
+      },
+      {
+        "id": "h",
+        "text": "Anzeige h"
+      },
+      {
+        "id": "x",
+        "text": "keine L?sung"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "section": "lesen-2",
+    "prompt": "Sie sind krankenversichert und möchten für einen Sehtest nicht selbst bezahlen.",
+    "answer": "h",
+    "options": [
+      {
+        "id": "a",
+        "text": "Anzeige a"
+      },
+      {
+        "id": "b",
+        "text": "Anzeige b"
+      },
+      {
+        "id": "c",
+        "text": "Anzeige c"
+      },
+      {
+        "id": "d",
+        "text": "Anzeige d"
+      },
+      {
+        "id": "e",
+        "text": "Anzeige e"
+      },
+      {
+        "id": "f",
+        "text": "Anzeige f"
+      },
+      {
+        "id": "g",
+        "text": "Anzeige g"
+      },
+      {
+        "id": "h",
+        "text": "Anzeige h"
+      },
+      {
+        "id": "x",
+        "text": "keine L?sung"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "section": "lesen-2",
+    "prompt": "Sie möchten sich in einem Fitness-Center anmelden.",
+    "answer": "x",
+    "options": [
+      {
+        "id": "a",
+        "text": "Anzeige a"
+      },
+      {
+        "id": "b",
+        "text": "Anzeige b"
+      },
+      {
+        "id": "c",
+        "text": "Anzeige c"
+      },
+      {
+        "id": "d",
+        "text": "Anzeige d"
+      },
+      {
+        "id": "e",
+        "text": "Anzeige e"
+      },
+      {
+        "id": "f",
+        "text": "Anzeige f"
+      },
+      {
+        "id": "g",
+        "text": "Anzeige g"
+      },
+      {
+        "id": "h",
+        "text": "Anzeige h"
+      },
+      {
+        "id": "x",
+        "text": "keine L?sung"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "section": "lesen-2",
+    "prompt": "Sie suchen ein Buch über richtiges Laufen. 10 ÖIF.",
+    "answer": "f",
+    "options": [
+      {
+        "id": "a",
+        "text": "Anzeige a"
+      },
+      {
+        "id": "b",
+        "text": "Anzeige b"
+      },
+      {
+        "id": "c",
+        "text": "Anzeige c"
+      },
+      {
+        "id": "d",
+        "text": "Anzeige d"
+      },
+      {
+        "id": "e",
+        "text": "Anzeige e"
+      },
+      {
+        "id": "f",
+        "text": "Anzeige f"
+      },
+      {
+        "id": "g",
+        "text": "Anzeige g"
+      },
+      {
+        "id": "h",
+        "text": "Anzeige h"
+      },
+      {
+        "id": "x",
+        "text": "keine L?sung"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "section": "lesen-3",
+    "prompt": "Die Mitarbeiter/innen bekommen für ihre Anwesenheit von 9.00 h bis 17.00 Uhr nichts bezahlt.",
+    "answer": "falsch",
+    "options": [
+      {
+        "id": "richtig",
+        "text": "richtig"
+      },
+      {
+        "id": "falsch",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "section": "lesen-3",
+    "prompt": "Bei der Mitarbeiterversammlung.",
+    "answer": "a",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "wird unter anderem über die Zukunftspläne der Firma gesprochen."
+      },
+      {
+        "id": "b",
+        "text": "müssen alle Mitarbeiter/innen zum Abendessen kommen."
+      },
+      {
+        "id": "c",
+        "text": "bezahlen die Mitarbeiter/innen das Abendessen selbst."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "section": "lesen-3",
+    "prompt": "Wissenschaftler/innen glauben, dass die Temperaturen weltweit ansteigen.",
+    "answer": "richtig",
+    "options": [
+      {
+        "id": "richtig",
+        "text": "richtig"
+      },
+      {
+        "id": "falsch",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "section": "lesen-3",
+    "prompt": "Zu den Folgen des Klimawandels gehört,.",
+    "answer": "b",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "dass bis zum Jahr 2050 kein Eis mehr am Nordpol sein wird."
+      },
+      {
+        "id": "b",
+        "text": "dass es Umweltflüchtlinge geben wird, wie Expert/innen glauben."
+      },
+      {
+        "id": "c",
+        "text": "dass der Indische Ozean am Ende seiner Existenz sein wird."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "section": "lesen-3",
+    "prompt": "Frau Domenig hat aus dem Katalog eine Jacke bestellt, die nicht mehr lieferbar war.",
+    "answer": "richtig",
+    "options": [
+      {
+        "id": "richtig",
+        "text": "richtig"
+      },
+      {
+        "id": "falsch",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "section": "lesen-3",
+    "prompt": "Die Versand-Firma Torres.",
+    "answer": "b",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "entschuldigt sich und bietet eine Jacke in einer ähnlichen Größe an."
+      },
+      {
+        "id": "b",
+        "text": "entschuldigt sich und bietet eine ähnliche Jacke billiger an."
+      },
+      {
+        "id": "c",
+        "text": "entschuldigt sich und bietet eine dunkelblaue Jacke zum gleichen Preis an."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "section": "lesen-4",
+    "prompt": "Kinder unter 12 Jahre dürfen alleine in den Zoo gehen.",
+    "answer": "falsch",
+    "options": [
+      {
+        "id": "richtig",
+        "text": "richtig"
+      },
+      {
+        "id": "falsch",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "section": "lesen-4",
+    "prompt": "Die Eintrittskarte soll man erst wegwerfen, wenn man den Zoo verlässt.",
+    "answer": "richtig",
+    "options": [
+      {
+        "id": "richtig",
+        "text": "richtig"
+      },
+      {
+        "id": "falsch",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "section": "lesen-4",
+    "prompt": "Sie dürfen Ihren Hund nur an der Leine in den Zoo mitnehmen.",
+    "answer": "falsch",
+    "options": [
+      {
+        "id": "richtig",
+        "text": "richtig"
+      },
+      {
+        "id": "falsch",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "section": "lesen-5",
+    "prompt": "L?cke 40",
+    "answer": "b",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "weil."
+      },
+      {
+        "id": "b",
+        "text": "um."
+      },
+      {
+        "id": "c",
+        "text": "damit."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "section": "lesen-5",
+    "prompt": "L?cke 41",
+    "answer": "b",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Denn."
+      },
+      {
+        "id": "b",
+        "text": "Da."
+      },
+      {
+        "id": "c",
+        "text": "Obwohl."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "section": "lesen-5",
+    "prompt": "L?cke 42",
+    "answer": "a",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "dass."
+      },
+      {
+        "id": "b",
+        "text": "wodurch."
+      },
+      {
+        "id": "c",
+        "text": "denn."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "section": "lesen-5",
+    "prompt": "L?cke 43",
+    "answer": "b",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "sodass."
+      },
+      {
+        "id": "b",
+        "text": "auch wenn."
+      },
+      {
+        "id": "c",
+        "text": "denn."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "section": "lesen-5",
+    "prompt": "L?cke 44",
+    "answer": "c",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "sollen."
+      },
+      {
+        "id": "b",
+        "text": "ist."
+      },
+      {
+        "id": "c",
+        "text": "sind."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "section": "lesen-5",
+    "prompt": "L?cke 45",
+    "answer": "b",
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "freundlichem."
+      },
+      {
+        "id": "b",
+        "text": "freundlichen."
+      },
+      {
+        "id": "c",
+        "text": "freundliche."
+      }
+    ]
+  }
+]
