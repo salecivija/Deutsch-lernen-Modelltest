@@ -2,91 +2,91 @@
   {
     "id": 1,
     "section": "hoeren-1",
-    "prompt": "Was kann Frau Klein tun?",
+    "prompt": "Was kann Frau Klein tun",
     "answer": "a",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "den Computer morgen Früh abholen."
+        "text": "den Computer morgen Früh abholen"
       },
       {
         "id": "b",
-        "text": "den Computer am Samstag abholen."
+        "text": "den Computer am Samstag abholen"
       },
       {
         "id": "c",
-        "text": "den Computer am Freitag um 17.00 abholen."
+        "text": "den Computer am Freitag um 17.00 abholen"
       }
     ]
   },
   {
     "id": 2,
     "section": "hoeren-1",
-    "prompt": "Was können die Personen tun, um längere Wartezeiten zu vermeiden?",
+    "prompt": "Was können die Personen tun, um längere Wartezeiten zu vermeiden",
     "answer": "c",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "mit der Straßenbahnlinie 43 oder 44 fahren."
+        "text": "mit der Straßenbahnlinie 43 oder 44 fahren"
       },
       {
         "id": "b",
-        "text": "im Bereich Schottentor demonstrieren."
+        "text": "im Bereich Schottentor demonstrieren"
       },
       {
         "id": "c",
-        "text": "mit anderen Linien fahren."
+        "text": "mit anderen Linien fahren"
       }
     ]
   },
   {
     "id": 3,
     "section": "hoeren-1",
-    "prompt": "Was soll Frau Berger tun?",
+    "prompt": "Was soll Frau Berger tun",
     "answer": "b",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "ihre Sonnenbrille abholen."
+        "text": "ihre Sonnenbrille abholen"
       },
       {
         "id": "b",
-        "text": "in der Augenarztpraxis anrufen."
+        "text": "in der Augenarztpraxis anrufen"
       },
       {
         "id": "c",
-        "text": "das Wartezimmer aufräumen."
+        "text": "das Wartezimmer aufräumen"
       }
     ]
   },
   {
     "id": 4,
     "section": "hoeren-1",
-    "prompt": "Was soll Frau Bernhard tun?",
+    "prompt": "Was soll Frau Bernhard tun",
     "answer": "a",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "in der Tanzschule Rainer anrufen."
+        "text": "in der Tanzschule Rainer anrufen"
       },
       {
         "id": "b",
-        "text": "sich vom Tanzkurs abmelden."
+        "text": "sich vom Tanzkurs abmelden"
       },
       {
         "id": "c",
-        "text": "eine Teilnehmerin anmelden £ £ £ 4 ÖIF Sie hören vier Ansagen. Zu jeder Ansage gibt es eine Aufgabe. Welche Lösung (a, b oder c) passt am besten? Markieren Sie Ihre Lösungen für die Aufgaben 1-4 auf dem Antwortbogen."
+        "text": "eine Teilnehmerin anmelden £ £ £"
       }
     ]
   },
   {
     "id": 5,
     "section": "hoeren-2",
-    "prompt": "Das Wetter.",
+    "prompt": "Das Wetter",
     "answer": "b",
     "shuffle": true,
     "options": [
@@ -107,7 +107,7 @@
   {
     "id": 6,
     "section": "hoeren-2",
-    "prompt": "Auf der A1-Westautobahn.",
+    "prompt": "Auf der A1-Westautobahn",
     "answer": "b",
     "shuffle": true,
     "options": [
@@ -128,28 +128,28 @@
   {
     "id": 7,
     "section": "hoeren-2",
-    "prompt": "Was hören Sie?",
+    "prompt": "Was hören Sie",
     "answer": "b",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "eine Musiksendung."
+        "text": "eine Musiksendung"
       },
       {
         "id": "b",
-        "text": "eine Programmvorschau."
+        "text": "eine Programmvorschau"
       },
       {
         "id": "c",
-        "text": "einen Wetterbericht."
+        "text": "einen Wetterbericht"
       }
     ]
   },
   {
     "id": 8,
     "section": "hoeren-2",
-    "prompt": "„Easyschlank“.",
+    "prompt": "„Easyschlank“",
     "answer": "a",
     "shuffle": true,
     "options": [
@@ -170,7 +170,7 @@
   {
     "id": 9,
     "section": "hoeren-2",
-    "prompt": "Bei den „Steirischen Wochen“ kann man.",
+    "prompt": "Bei den „Steirischen Wochen“ kann man",
     "answer": "b",
     "shuffle": true,
     "options": [
@@ -191,8 +191,9 @@
   {
     "id": 10,
     "section": "hoeren-3",
-    "prompt": "Die Tochter hat eine Allergie.",
+    "prompt": "Die Tochter hat eine Allergie. richtig/falsch",
     "answer": "richtig",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -207,7 +208,7 @@
   {
     "id": 11,
     "section": "hoeren-3",
-    "prompt": "Die Mutter kauft in der Apotheke.",
+    "prompt": "Die Mutter kauft in der Apotheke",
     "answer": "a",
     "shuffle": true,
     "options": [
@@ -228,8 +229,9 @@
   {
     "id": 12,
     "section": "hoeren-3",
-    "prompt": "Der Rucksack war im Fundbüro.",
+    "prompt": "Der Rucksack war im Fundbüro. richtig/falsch",
     "answer": "richtig",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -244,29 +246,30 @@
   {
     "id": 13,
     "section": "hoeren-3",
-    "prompt": "Der Mann hat seinen Rucksack.",
+    "prompt": "Der Mann hat seinen Rucksack",
     "answer": "c",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "im Fundbüro abgegeben."
+        "text": "im Fundbüro abgegeben"
       },
       {
         "id": "b",
-        "text": "vor einer Woche verloren."
+        "text": "vor einer Woche verloren"
       },
       {
         "id": "c",
-        "text": "in der U-Bahn vergessen."
+        "text": "in der U-Bahn vergessen"
       }
     ]
   },
   {
     "id": 14,
     "section": "hoeren-3",
-    "prompt": "Die Jacke war zu klein.",
+    "prompt": "Die Jacke war zu klein. richtig/falsch",
     "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -281,7 +284,7 @@
   {
     "id": 15,
     "section": "hoeren-3",
-    "prompt": "Die Kundin.",
+    "prompt": "Die Kundin",
     "answer": "b",
     "shuffle": true,
     "options": [
@@ -302,8 +305,9 @@
   {
     "id": 16,
     "section": "hoeren-3",
-    "prompt": "Der Nachbar bedankt sich bei Familie Klieber mit einer Einladung zum Essen.",
+    "prompt": "Der Nachbar bedankt sich bei Familie Klieber mit einer Einladung zum Essen. richtig/falsch",
     "answer": "richtig",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -318,7 +322,7 @@
   {
     "id": 17,
     "section": "hoeren-3",
-    "prompt": "Tobias.",
+    "prompt": "Tobias",
     "answer": "a",
     "shuffle": true,
     "options": [
@@ -333,79 +337,63 @@
       {
         "id": "c",
         "text": "geht nach der Schule immer nach Hause."
+      },
+      {
+        "id": "a",
+        "text": "muss ins Krankenhaus"
+      },
+      {
+        "id": "b",
+        "text": "fährt für ein paar Tage weg"
+      },
+      {
+        "id": "c",
+        "text": "liest keine Zeitungen £ £ richtig falsch £ £ £"
+      },
+      {
+        "id": "c",
+        "text": "Hören"
       }
     ]
   },
   {
     "id": 18,
     "section": "hoeren-4",
-    "prompt": "Aussage 18",
-    "answer": "e",
-    "shuffle": true,
+    "prompt": "…",
+    "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
-        "id": "a",
-        "text": "Zu wenig Geld macht nicht glücklich – zu viel Geld auch nicht."
+        "id": "richtig",
+        "text": "richtig"
       },
       {
-        "id": "b",
-        "text": "Nur wenig Geld macht glücklich."
-      },
-      {
-        "id": "c",
-        "text": "Wer viel arbeitet und viel Geld verdient, hat oft wenig Zeit für Freunde und Familie."
-      },
-      {
-        "id": "d",
-        "text": "Glück hat mit Geld nichts zu tun."
-      },
-      {
-        "id": "e",
-        "text": "Mit viel Geld kann man sich alles kaufen und man kann sich alle Wünsche erfüllen."
-      },
-      {
-        "id": "f",
-        "text": "Gesundheit ist wichtiger als Geld."
+        "id": "falsch",
+        "text": "falsch"
       }
     ]
   },
   {
     "id": 19,
     "section": "hoeren-4",
-    "prompt": "Aussage 19",
-    "answer": "f",
-    "shuffle": true,
+    "prompt": "…",
+    "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
-        "id": "a",
-        "text": "Zu wenig Geld macht nicht glücklich – zu viel Geld auch nicht."
+        "id": "richtig",
+        "text": "richtig"
       },
       {
-        "id": "b",
-        "text": "Nur wenig Geld macht glücklich."
-      },
-      {
-        "id": "c",
-        "text": "Wer viel arbeitet und viel Geld verdient, hat oft wenig Zeit für Freunde und Familie."
-      },
-      {
-        "id": "d",
-        "text": "Glück hat mit Geld nichts zu tun."
-      },
-      {
-        "id": "e",
-        "text": "Mit viel Geld kann man sich alles kaufen und man kann sich alle Wünsche erfüllen."
-      },
-      {
-        "id": "f",
-        "text": "Gesundheit ist wichtiger als Geld."
+        "id": "falsch",
+        "text": "falsch"
       }
     ]
   },
   {
     "id": 20,
     "section": "hoeren-4",
-    "prompt": "Aussage 20",
+    "prompt": "…",
     "answer": "a",
     "shuffle": true,
     "options": [
@@ -432,6 +420,10 @@
       {
         "id": "f",
         "text": "Gesundheit ist wichtiger als Geld."
+      },
+      {
+        "id": "f",
+        "text": "Hören"
       }
     ]
   },
@@ -444,15 +436,15 @@
     "options": [
       {
         "id": "a",
-        "text": "Halle E."
+        "text": "Halle E"
       },
       {
         "id": "b",
-        "text": "Halle D."
+        "text": "Halle D"
       },
       {
         "id": "c",
-        "text": "andere Halle."
+        "text": "andere Halle"
       }
     ]
   },
@@ -465,15 +457,15 @@
     "options": [
       {
         "id": "a",
-        "text": "Halle A."
+        "text": "Halle A"
       },
       {
         "id": "b",
-        "text": "Halle B."
+        "text": "Halle B"
       },
       {
         "id": "c",
-        "text": "andere Halle."
+        "text": "andere Halle"
       }
     ]
   },
@@ -486,15 +478,15 @@
     "options": [
       {
         "id": "a",
-        "text": "Halle B."
+        "text": "Halle B"
       },
       {
         "id": "b",
-        "text": "Halle D."
+        "text": "Halle D"
       },
       {
         "id": "c",
-        "text": "andere Halle."
+        "text": "andere Halle"
       }
     ]
   },
@@ -507,15 +499,15 @@
     "options": [
       {
         "id": "a",
-        "text": "Halle E."
+        "text": "Halle E"
       },
       {
         "id": "b",
-        "text": "Halle B."
+        "text": "Halle B"
       },
       {
         "id": "c",
-        "text": "andere Halle."
+        "text": "andere Halle"
       }
     ]
   },
@@ -528,15 +520,27 @@
     "options": [
       {
         "id": "a",
-        "text": "Halle C."
+        "text": "Halle C"
       },
       {
         "id": "b",
-        "text": "Halle A."
+        "text": "Halle A"
       },
       {
         "id": "c",
-        "text": "andere Halle."
+        "text": "andere Halle"
+      },
+      {
+        "id": "a",
+        "text": "Halle A"
+      },
+      {
+        "id": "b",
+        "text": "Halle D"
+      },
+      {
+        "id": "c",
+        "text": "andere Halle £ £ £"
       }
     ]
   },
@@ -544,43 +548,16 @@
     "id": 26,
     "section": "lesen-2",
     "prompt": "Sie suchen eine Firma, die die schmutzige Außenwand eines Hauses reinigt.",
-    "answer": "a",
+    "answer": "richtig",
+    "shuffle": false,
     "options": [
       {
-        "id": "a",
-        "text": "Anzeige a"
+        "id": "richtig",
+        "text": "richtig"
       },
       {
-        "id": "b",
-        "text": "Anzeige b"
-      },
-      {
-        "id": "c",
-        "text": "Anzeige c"
-      },
-      {
-        "id": "d",
-        "text": "Anzeige d"
-      },
-      {
-        "id": "e",
-        "text": "Anzeige e"
-      },
-      {
-        "id": "f",
-        "text": "Anzeige f"
-      },
-      {
-        "id": "g",
-        "text": "Anzeige g"
-      },
-      {
-        "id": "h",
-        "text": "Anzeige h"
-      },
-      {
-        "id": "x",
-        "text": "keine L?sung"
+        "id": "falsch",
+        "text": "falsch"
       }
     ]
   },
@@ -588,43 +565,16 @@
     "id": 27,
     "section": "lesen-2",
     "prompt": "Sie möchten eine Reise nach Afrika und Asien buchen.",
-    "answer": "f",
+    "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
-        "id": "a",
-        "text": "Anzeige a"
+        "id": "richtig",
+        "text": "richtig"
       },
       {
-        "id": "b",
-        "text": "Anzeige b"
-      },
-      {
-        "id": "c",
-        "text": "Anzeige c"
-      },
-      {
-        "id": "d",
-        "text": "Anzeige d"
-      },
-      {
-        "id": "e",
-        "text": "Anzeige e"
-      },
-      {
-        "id": "f",
-        "text": "Anzeige f"
-      },
-      {
-        "id": "g",
-        "text": "Anzeige g"
-      },
-      {
-        "id": "h",
-        "text": "Anzeige h"
-      },
-      {
-        "id": "x",
-        "text": "keine L?sung"
+        "id": "falsch",
+        "text": "falsch"
       }
     ]
   },
@@ -632,43 +582,16 @@
     "id": 28,
     "section": "lesen-2",
     "prompt": "Sie möchten Chinesisch lernen.",
-    "answer": "x",
+    "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
-        "id": "a",
-        "text": "Anzeige a"
+        "id": "richtig",
+        "text": "richtig"
       },
       {
-        "id": "b",
-        "text": "Anzeige b"
-      },
-      {
-        "id": "c",
-        "text": "Anzeige c"
-      },
-      {
-        "id": "d",
-        "text": "Anzeige d"
-      },
-      {
-        "id": "e",
-        "text": "Anzeige e"
-      },
-      {
-        "id": "f",
-        "text": "Anzeige f"
-      },
-      {
-        "id": "g",
-        "text": "Anzeige g"
-      },
-      {
-        "id": "h",
-        "text": "Anzeige h"
-      },
-      {
-        "id": "x",
-        "text": "keine L?sung"
+        "id": "falsch",
+        "text": "falsch"
       }
     ]
   },
@@ -676,95 +599,42 @@
     "id": 29,
     "section": "lesen-2",
     "prompt": "Sie möchten sich erholen und dabei etwas für Ihre körperliche Gesundheit tun.",
-    "answer": "b",
+    "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
-        "id": "a",
-        "text": "Anzeige a"
+        "id": "richtig",
+        "text": "richtig"
       },
       {
-        "id": "b",
-        "text": "Anzeige b"
-      },
-      {
-        "id": "c",
-        "text": "Anzeige c"
-      },
-      {
-        "id": "d",
-        "text": "Anzeige d"
-      },
-      {
-        "id": "e",
-        "text": "Anzeige e"
-      },
-      {
-        "id": "f",
-        "text": "Anzeige f"
-      },
-      {
-        "id": "g",
-        "text": "Anzeige g"
-      },
-      {
-        "id": "h",
-        "text": "Anzeige h"
-      },
-      {
-        "id": "x",
-        "text": "keine L?sung"
+        "id": "falsch",
+        "text": "falsch"
       }
     ]
   },
   {
     "id": 30,
     "section": "lesen-2",
-    "prompt": "Ein Freund von Ihnen hat eine schwierige Lebenssituation und braucht Beratung. 10 ÖIF.",
-    "answer": "d",
+    "prompt": "Ein Freund von Ihnen hat eine schwierige Lebenssituation und braucht Beratung. Lesen",
+    "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
-        "id": "a",
-        "text": "Anzeige a"
+        "id": "richtig",
+        "text": "richtig"
       },
       {
-        "id": "b",
-        "text": "Anzeige b"
-      },
-      {
-        "id": "c",
-        "text": "Anzeige c"
-      },
-      {
-        "id": "d",
-        "text": "Anzeige d"
-      },
-      {
-        "id": "e",
-        "text": "Anzeige e"
-      },
-      {
-        "id": "f",
-        "text": "Anzeige f"
-      },
-      {
-        "id": "g",
-        "text": "Anzeige g"
-      },
-      {
-        "id": "h",
-        "text": "Anzeige h"
-      },
-      {
-        "id": "x",
-        "text": "keine L?sung"
+        "id": "falsch",
+        "text": "falsch"
       }
     ]
   },
   {
     "id": 31,
     "section": "lesen-3",
-    "prompt": "Wenig Schlaf fördert die Intelligenz.",
+    "prompt": "Wenig Schlaf fördert die Intelligenz richtig/falsch",
     "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -779,29 +649,30 @@
   {
     "id": 32,
     "section": "lesen-3",
-    "prompt": "Wer regelmäßig sieben Stunden schläft.",
+    "prompt": "Wer regelmäßig sieben Stunden schläft",
     "answer": "a",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "lebt gesund."
+        "text": "lebt gesund"
       },
       {
         "id": "b",
-        "text": "lebt ungesund."
+        "text": "lebt ungesund"
       },
       {
         "id": "c",
-        "text": "hat eine kürzere Lebenserwartung Neueste wissenschaftliche Forschungen über den Schlaf Internationale Wissenschaftler haben schon oft den Schlaf unter- sucht. Dabei haben sie entdeckt, dass sich zu wenig Schlaf negativ auf die Intelligenz des Menschen auswirken kann."
+        "text": "hat eine kürzere Lebenserwartung Neueste wissenschaftliche Forschungen über den Schlaf Internationale Wissenschaftler haben schon oft den Schlaf unter- sucht. Dabei haben sie entdeckt, dass sich zu wenig Schlaf negativ auf die Intelligenz des Menschen auswirken kann. Der gesunde Schlaf soll mindestens 6-8 Stunden dauern. Wer weni- ger schläft, verliert bereits Intelligenzpunkte. Die Intelligenz nimmt also ab, wenn man zu wenig schläft! Aber die ganze Sache ist nicht endgültig. Wer nämlich danach wieder mehr schläft, kann sich die verlorene Intelligenz wieder zurückholen. Insgesamt belegen aber internationale Studien außerdem, dass bei- des – nämlich zu viel und zu wenig Schlaf – schlecht für die Gesund- heit ist. So wurde in einer Studie aus Finnland nachgewiesen, dass Menschen mit zu viel und Menschen mit zu wenig Schlaf eine kürzere Lebenser- wartung haben als Menschen, die regelmäßig 6-8 Stunden schlafen. Warum das so ist, ist noch nicht völlig geklärt."
       }
     ]
   },
   {
     "id": 33,
     "section": "lesen-3",
-    "prompt": "Fernwärmetechnik braucht in der Wohnung wenig Platz.",
+    "prompt": "Fernwärmetechnik braucht in der Wohnung wenig Platz. richtig/falsch",
     "answer": "richtig",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -816,7 +687,7 @@
   {
     "id": 34,
     "section": "lesen-3",
-    "prompt": "Fernwärme.",
+    "prompt": "Fernwärme",
     "answer": "b",
     "shuffle": true,
     "options": [
@@ -830,15 +701,16 @@
       },
       {
         "id": "c",
-        "text": "ist besonders billig."
+        "text": "ist besonders billig. Vor- und Nachteile der Fernwärme Fernwärme hat viele Vor- aber auch Nachteile. Folgende Punkte kann man zu den Vorteilen der Fernwärme zählen: • Für eine Fernwärme-Heizung brauchen Sie nicht viel Platz. Sie brauchen nur ein paar technische Kleinigkeiten und schon können Sie die Fernwärme nützen. • Bei der Fernwärme gibt es keine Abgase in Ihrer Wohnung. • Sie bekommen die Wärme „fertig“ ins Haus geliefert. Sie brauchen keinen Raum, um das Heiz material (zum"
       }
     ]
   },
   {
     "id": 35,
     "section": "lesen-3",
-    "prompt": "Hier handelt es sich um Regeln, die für die Abreise wichtig sind.",
+    "prompt": "Hier handelt es sich um Regeln, die für die Abreise wichtig sind. richtig/falsch",
     "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -853,7 +725,7 @@
   {
     "id": 36,
     "section": "lesen-3",
-    "prompt": "Die Gäste.",
+    "prompt": "Die Gäste",
     "answer": "c",
     "shuffle": true,
     "options": [
@@ -867,15 +739,16 @@
       },
       {
         "id": "c",
-        "text": "sollen zum Beispiel kein T-Shirt über den Balkon hängen."
+        "text": "sollen zum"
       }
     ]
   },
   {
     "id": 37,
     "section": "lesen-4",
-    "prompt": "Man soll eine Wanderung gut vorbereiten und genau planen.",
+    "prompt": "Man soll eine Wanderung gut vorbereiten und genau planen. richtig/falsch",
     "answer": "richtig",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -890,8 +763,9 @@
   {
     "id": 38,
     "section": "lesen-4",
-    "prompt": "Man soll anderen Personen sagen, wohin man geht und wann man zurückkommt.",
+    "prompt": "Man soll anderen Personen sagen, wohin man geht und wann man zurückkommt. richtig/falsch",
     "answer": "richtig",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -906,8 +780,9 @@
   {
     "id": 39,
     "section": "lesen-4",
-    "prompt": "Man soll in der Natur keinen Müll wegwerfen.",
+    "prompt": "Man soll in der Natur keinen Müll wegwerfen. richtig/falsch Die 10 Grundregeln für Wanderer 1. Prüfen Sie vor jeder Bergtour Ihre persönliche Fitness und Gesundheit und schätzen Sie Ihre Kräfte und jene Ihrer Begleiter - insbesondere jene Ihrer Kinder – richtig ein. Danach richtet sich die Länge der Tour. 2. Planen Sie jede Tour genau. Informationen aus Wanderkarten, von Vermietern und Hüttenwirten können dabei sehr hilfreich sein. 3. Achten Sie auf die erforderliche Ausrüstung, auf ausreichend zu Essen und zu Trinken und auf die Wettervorhersage. 4. Geben Sie anderen Personen Ihr Wanderziel sowie gegebenenfalls die geplante Rückkehrzeit bekannt. Tragen Sie Ziel- und Wegroute in den Hütten- und Gipfelbüchern ein. Im Notfall hilft das, Sie leicht und schnell zu finden. 5. Passen Sie das Tempo Ihrer Kondition und jener Ihrer Partner an. Das Tempo orientiert sich stets am schwächsten Mitglied einer Gruppe. Zu schnelles Gehen führt schnell zur Müdigkeit. Bedenken Sie: Sie brauchen auch noch Kraft für den Rückweg. 6. Bleiben Sie auf den markierten Wegen. Das Begehen steiler Grashänge (besonders bei Näs- se), Schneefelder oder Gletscher birgt immer Gefahren in sich. 7. Achten Sie auf Steinschlag, der oft von Tieren wie Gämsen, Schafen, etc. ausgelöst werden kann und treten Sie selbst keine Steine ab. Sie gefährden damit andere Bergwanderer. 8. Gehen Sie zurück, wenn schlechtes Wetter kommt oder wenn Sie keine Kraft mehr haben. Dies ist keine Schande, sondern ein Zeichen der Vorsicht! 9. Bewahren Sie Ruhe, wenn ein Unfall passiert! Versuchen Sie Hilfe zu holen. 10. Halten Sie die Berge sauber! Nehmen Sie leere Getränkeflaschen, Dosen oder Abfall wieder mit. Lesen",
     "answer": "richtig",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -922,126 +797,126 @@
   {
     "id": 40,
     "section": "lesen-5",
-    "prompt": "L?cke 40",
+    "prompt": "Lücke 40",
     "answer": "c",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "dich."
+        "text": "dich"
       },
       {
         "id": "b",
-        "text": "sich."
+        "text": "sich"
       },
       {
         "id": "c",
-        "text": "mich."
+        "text": "mich"
       }
     ]
   },
   {
     "id": 41,
     "section": "lesen-5",
-    "prompt": "L?cke 41",
+    "prompt": "Lücke 41",
     "answer": "a",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "weil."
+        "text": "weil"
       },
       {
         "id": "b",
-        "text": "denn."
+        "text": "denn"
       },
       {
         "id": "c",
-        "text": "obwohl."
+        "text": "obwohl"
       }
     ]
   },
   {
     "id": 42,
     "section": "lesen-5",
-    "prompt": "L?cke 42",
+    "prompt": "Lücke 42",
     "answer": "b",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "sowohl."
+        "text": "sowohl"
       },
       {
         "id": "b",
-        "text": "deshalb."
+        "text": "deshalb"
       },
       {
         "id": "c",
-        "text": "trotzdem."
+        "text": "trotzdem"
       }
     ]
   },
   {
     "id": 43,
     "section": "lesen-5",
-    "prompt": "L?cke 43",
+    "prompt": "Lücke 43",
     "answer": "b",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "mich."
+        "text": "mich"
       },
       {
         "id": "b",
-        "text": "mir."
+        "text": "mir"
       },
       {
         "id": "c",
-        "text": "mein."
+        "text": "mein"
       }
     ]
   },
   {
     "id": 44,
     "section": "lesen-5",
-    "prompt": "L?cke 44",
+    "prompt": "Lücke 44",
     "answer": "b",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "der."
+        "text": "der"
       },
       {
         "id": "b",
-        "text": "die."
+        "text": "die"
       },
       {
         "id": "c",
-        "text": "das."
+        "text": "das"
       }
     ]
   },
   {
     "id": 45,
     "section": "lesen-5",
-    "prompt": "L?cke 45",
+    "prompt": "Lücke 45",
     "answer": "b",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "obwohl."
+        "text": "obwohl"
       },
       {
         "id": "b",
-        "text": "wenn."
+        "text": "wenn"
       },
       {
         "id": "c",
-        "text": "als."
+        "text": "als"
       }
     ]
   }

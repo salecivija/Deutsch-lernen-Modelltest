@@ -1,14 +1,13 @@
 
 
---- PAGE 1 ---
-B1
-DEUTSCH-
-TEST FUR 
-STERREICH
+--- Seite 1 ---
 Übungstest 2
+Deutsch-Test 
+für Österreich
+ISTOCKPHOTO.COM
 
 
---- PAGE 2 ---
+--- Seite 2 ---
 Inhalt	
 Test
 Hören	
@@ -29,7 +28,7 @@ Lösungsschlüssel
 Testformat Deutsch-Test für Österreich
 
 
---- PAGE 3 ---
+--- Seite 3 ---
 Subtest	
 Ziel	
 Aufgabentyp	
@@ -131,7 +130,7 @@ Testformat
 Deutsch-Test für Österreich	
 
 
---- PAGE 4 ---
+--- Seite 4 ---
 Beispiel
 Sie haben ein Fahrrad dabei. 
 Wo steigen Sie ein?
@@ -189,7 +188,7 @@ Sie hören vier Ansagen. Zu jeder Ansage gibt es eine Aufgabe. Welche Lösung (a
 passt am besten? Markieren Sie Ihre Lösungen für die Aufgaben 1-4 auf dem Antwortbogen.
 
 
---- PAGE 5 ---
+--- Seite 5 ---
 Hören Teil 2
  Hören
 25 Minuten
@@ -236,7 +235,7 @@ Sie hören fünf Ansagen aus dem Radio. Zu jeder Ansage gibt es eine Aufgabe. We
 passt am besten? Markieren Sie Ihre Lösungen für die Aufgaben 5-9 auf dem Antwortbogen. 
 
 
---- PAGE 6 ---
+--- Seite 6 ---
 Hören Teil 3
 Sie hören vier Gespräche. Zu jedem Gespräch gibt es zwei Aufgaben. Entscheiden Sie bei jedem 
 Gespräch, ob die Aussage dazu richtig oder falsch ist und welche Antwort (a, b oder c) am besten passt. 
@@ -319,7 +318,7 @@ c
 ÖIF
 
 
---- PAGE 7 ---
+--- Seite 7 ---
 Hören Teil 4
 Sie hören Aussagen zu einem Thema. Welcher der Sätze a-f passt zu den Aussagen 18-20? 
 Markieren Sie Ihre Lösungen für die Aufgaben 18-20 auf dem Antwortbogen. 
@@ -365,7 +364,7 @@ f
 ÖIF
 
 
---- PAGE 8 ---
+--- Seite 8 ---
 Lesen Teil 1
  Lesen	
 45 Minuten
@@ -429,7 +428,7 @@ c
 ÖIF
 
 
---- PAGE 9 ---
+--- Seite 9 ---
  Lesen
 45 Minuten
 HALLENPLAN – DAS ALLES GIBT ES AUF  
@@ -489,7 +488,7 @@ g	Banken und Versicherungen
 ÖIF
 
 
---- PAGE 10 ---
+--- Seite 10 ---
 Lesen Teil 2
 Lesen Sie die Situationen 26-30 und die Anzeigen a-h. Finden Sie für jede Situation die passende Anzeige. 
 Markieren Sie Ihre Lösungen für die Aufgaben 26-30 auf dem Antwortbogen. 
@@ -505,7 +504,7 @@ Für eine Aufgabe gibt es keine Lösung. Markieren Sie in diesem Fall ein X.
 ÖIF
 
 
---- PAGE 11 ---
+--- Seite 11 ---
 GEBÄUDEREINIGUNG – 
 Firma Supersauber! 
 Tel.: 01/856 73 29
@@ -590,7 +589,7 @@ e
 ÖIF
 
 
---- PAGE 12 ---
+--- Seite 12 ---
 Lesen Teil 3
 31	 Wenig Schlaf fördert die Intelligenz
 	
@@ -631,7 +630,7 @@ Markieren Sie Ihre Lösungen für die Aufgaben 31-36 auf dem Antwortbogen.
 ÖIF
 
 
---- PAGE 13 ---
+--- Seite 13 ---
 Lesen Teil 3
 33	 Fernwärmetechnik braucht in der Wohnung wenig Platz. 
 	
@@ -668,7 +667,7 @@ eine bestimmte Art der Heizung entscheiden. Der nächste kalte Winter kommt best
 ÖIF
 
 
---- PAGE 14 ---
+--- Seite 14 ---
 35	 Hier handelt es sich um Regeln, die für die Abreise wichtig sind.
 	
 richtig/falsch?
@@ -709,7 +708,7 @@ Die Hoteldirektion
 Lesen Teil 3
 
 
---- PAGE 15 ---
+--- Seite 15 ---
 Lesen Teil 4
 37	 Man soll eine Wanderung gut vorbereiten und genau planen. 	
 	
@@ -769,7 +768,7 @@ Markieren Sie Ihre Lösungen für die Aufgaben 37-39 auf dem Antwortbogen.
 Quelle: http://www.grossarltal.info/de/sommer/almen-wandern/richtiges-verhalten.html#notfall
 
 
---- PAGE 16 ---
+--- Seite 16 ---
 Lesen Teil 5
 40	 a. 	 dich
 	
@@ -850,7 +849,7 @@ Markieren Sie Ihre Lösungen für die Aufgaben 40-45 auf dem Antwortbogen.
 45
 
 
---- PAGE 17 ---
+--- Seite 17 ---
  Schreiben
 30 Minuten
 Sie möchten eine neue Sprache lernen. Schreiben Sie an die Besitzerin der Sprachschule, 
@@ -866,7 +865,7 @@ Lesen Sie die Schreibaufgabe gut durch. Zeigen Sie, was Sie können. Schreiben S
 Bitte berücksichtigen Sie jeden Leitpunkt. Schreiben Sie Ihren Text auf den Antwortbogen. 
 
 
---- PAGE 18 ---
+--- Seite 18 ---
  Sprechen	
 ca. 16 Minuten
 1.	 Sich vorstellen
@@ -907,12 +906,12 @@ shutterstock
 ÖIF
 
 
---- PAGE 19 ---
+--- Seite 19 ---
 19
 ÖIF
 
 
---- PAGE 20 ---
+--- Seite 20 ---
 DEUTSCH-TEST FÜR ÖSTERREICH 
 A2 / B1 
 Name  
@@ -1130,7 +1129,7 @@ DTÖ
 01 
 
 
---- PAGE 21 ---
+--- Seite 21 ---
 DEUTSCH-TEST FÜR ÖSTERREICH 
 A2 / B1 
 Name  
@@ -1445,7 +1444,7 @@ DTÖ
 01 
 
 
---- PAGE 22 ---
+--- Seite 22 ---
 DEUTSCH-TEST FÜR ÖSTERREICH 
 A2 / B1 
 Name  
@@ -1462,7 +1461,7 @@ DTÖ
 01 
 
 
---- PAGE 23 ---
+--- Seite 23 ---
 DEUTSCH-TEST FÜR ÖSTERREICH 
 A2 / B1 
 Name  
@@ -1480,7 +1479,7 @@ Bewertung
  
 
 
---- PAGE 24 ---
+--- Seite 24 ---
 DEUTSCH-TEST FÜR ÖSTERREICH 
 A2 / B1 
 Name  
@@ -1685,7 +1684,7 @@ BewerterID
   
 
 
---- PAGE 25 ---
+--- Seite 25 ---
 DEUTSCH-TEST FÜR ÖSTERREICH 
 A2 / B1 
 Name  
@@ -1996,7 +1995,7 @@ DTÖ
 01 
 
 
---- PAGE 26 ---
+--- Seite 26 ---
 Hören Teil 1
 Beispiel 
 Achtung, Bahnsteig 9. Eurocity 567 „Land Tirol“ nach Bregenz über Salzburg, Kufstein und Innsbruck fährt 
@@ -2047,7 +2046,7 @@ haben Sie ja. Auf Wiederhören.
 ÖIF
 
 
---- PAGE 27 ---
+--- Seite 27 ---
 Hören Teil 2
 5	
 Und hier die aktuellen Wetternachrichten für Tirol: In 
@@ -2108,7 +2107,7 @@ tag!
 ÖIF
 
 
---- PAGE 28 ---
+--- Seite 28 ---
 Hören Teil 3
 Beispiel 
 Sprecher: Grüß Gott Frau Huber! Wie gut, dass ich Sie endlich treffe. 
@@ -2182,7 +2181,7 @@ les war drin. Ich bin überglücklich, dass er da ist…
 ÖIF
 
 
---- PAGE 29 ---
+--- Seite 29 ---
 14 und 15
 Verkäufer: Guten Tag! Bitteschön?
 Kundin: Guten Tag! Ich habe gestern hier für meinen 
@@ -2237,7 +2236,7 @@ Sie davon? …
 ÖIF
 
 
---- PAGE 30 ---
+--- Seite 30 ---
 Hören Teil 4
 Heute beschäftigen wir uns mit der Frage: „Wie viel Geld braucht man, um glücklich zu sein“? Welche  
 Bedeutung soll Geld in unserem Leben spielen? Die einen sagen, man kann nie genug davon haben, um 
@@ -2285,7 +2284,7 @@ dass man gut und zufrieden leben kann.
 ÖIF
 
 
---- PAGE 31 ---
+--- Seite 31 ---
 Hören Teil 1
 Lesen Teil 1
 21 	 b
@@ -2354,4 +2353,5 @@ Hören Teil 4
 ÖIF
 
 
---- PAGE 32 ---
+--- Seite 32 ---
+www.integrationsfonds.at

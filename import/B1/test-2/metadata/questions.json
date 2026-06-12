@@ -2,197 +2,198 @@
   {
     "id": 1,
     "section": "hoeren-1",
-    "prompt": "Was soll Frau Gerber tun?",
+    "prompt": "Was soll Frau Gerber tun",
     "answer": "c",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "den Befund um 14.00 Uhr bringen."
+        "text": "den Befund um 14.00 Uhr bringen"
       },
       {
         "id": "b",
-        "text": "den Befund am nächsten Montag abholen."
+        "text": "den Befund am nächsten Montag abholen"
       },
       {
         "id": "c",
-        "text": "den Befund heute abholen."
+        "text": "den Befund heute abholen"
       }
     ]
   },
   {
     "id": 2,
     "section": "hoeren-1",
-    "prompt": "Was sollen Personen tun, die eine allgemeine Produktinformation brauchen?",
+    "prompt": "Was sollen Personen tun, die eine allgemeine Produktinformation brauchen",
     "answer": "a",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "die Service-Hotline anrufen."
+        "text": "die Service-Hotline anrufen"
       },
       {
         "id": "b",
-        "text": "ab dem 15. Juli anrufen."
+        "text": "ab dem 15. Juli anrufen"
       },
       {
         "id": "c",
-        "text": "bis 14. Juli im Büro anrufen."
+        "text": "bis 14. Juli im Büro anrufen"
       }
     ]
   },
   {
     "id": 3,
     "section": "hoeren-1",
-    "prompt": "Was soll der Besitzer des Handys tun?",
+    "prompt": "Was soll der Besitzer des Handys tun",
     "answer": "c",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "das Handy im roten Lederetui abgeben."
+        "text": "das Handy im roten Lederetui abgeben"
       },
       {
         "id": "b",
-        "text": "in die Gemüse-Abteilung kommen."
+        "text": "in die Gemüse-Abteilung kommen"
       },
       {
         "id": "c",
-        "text": "sich an der Information melden."
+        "text": "sich an der Information melden"
       }
     ]
   },
   {
     "id": 4,
     "section": "hoeren-1",
-    "prompt": "Was soll Frau Bruckmüller tun?",
+    "prompt": "Was soll Frau Bruckmüller tun",
     "answer": "b",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "Tobias um 17.00 Uhr abholen."
+        "text": "Tobias um 17.00 Uhr abholen"
       },
       {
         "id": "b",
-        "text": "Tobias um 14.00 Uhr abholen."
+        "text": "Tobias um 14.00 Uhr abholen"
       },
       {
         "id": "c",
-        "text": "den geplanten Schulausflug bestätigen £ £ £ 4 ÖIF Sie hören vier Ansagen. Zu jeder Ansage gibt es eine Aufgabe. Welche Lösung (a, b oder c) passt am besten? Markieren Sie Ihre Lösungen für die Aufgaben 1-4 auf dem Antwortbogen."
+        "text": "den geplanten Schulausflug bestätigen £ £ £"
       }
     ]
   },
   {
     "id": 5,
     "section": "hoeren-2",
-    "prompt": "Stau gibt es.",
+    "prompt": "Stau gibt es",
     "answer": "c",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "auf der A1 Westautobahn."
+        "text": "auf der A1 Westautobahn"
       },
       {
         "id": "b",
-        "text": "auf der A10 Tauernautobahn."
+        "text": "auf der A10 Tauernautobahn"
       },
       {
         "id": "c",
-        "text": "auf der A2 Südautobahn."
+        "text": "auf der A2 Südautobahn"
       }
     ]
   },
   {
     "id": 6,
     "section": "hoeren-2",
-    "prompt": "bis Ende des Monats bekommt man kostenlos.",
+    "prompt": "bis Ende des Monats bekommt man kostenlos",
     "answer": "b",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "die Getränke an der Bar."
+        "text": "die Getränke an der Bar"
       },
       {
         "id": "b",
-        "text": "die Erstberatung."
+        "text": "die Erstberatung"
       },
       {
         "id": "c",
-        "text": "Sauna und Solarium."
+        "text": "Sauna und Solarium"
       }
     ]
   },
   {
     "id": 7,
     "section": "hoeren-2",
-    "prompt": "Das Wetter am Wochenende.",
+    "prompt": "Das Wetter am Wochenende",
     "answer": "b",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "bleibt gleich."
+        "text": "bleibt gleich"
       },
       {
         "id": "b",
-        "text": "wird immer besser."
+        "text": "wird immer besser"
       },
       {
         "id": "c",
-        "text": "wird immer schlechter."
+        "text": "wird immer schlechter"
       }
     ]
   },
   {
     "id": 8,
     "section": "hoeren-2",
-    "prompt": "Was hören Sie?",
+    "prompt": "Was hören Sie",
     "answer": "b",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "den Wetterbericht."
+        "text": "den Wetterbericht"
       },
       {
         "id": "b",
-        "text": "das Radioprogramm."
+        "text": "das Radioprogramm"
       },
       {
         "id": "c",
-        "text": "eine Musiksendung."
+        "text": "eine Musiksendung"
       }
     ]
   },
   {
     "id": 9,
     "section": "hoeren-2",
-    "prompt": "Wenn Sie gerne lachen, gehen Sie heute Abend ins.",
+    "prompt": "Wenn Sie gerne lachen, gehen Sie heute Abend ins",
     "answer": "c",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "Hollywood-Kino."
+        "text": "Hollywood-Kino"
       },
       {
         "id": "b",
-        "text": "Zentral-Kino."
+        "text": "Zentral-Kino"
       },
       {
         "id": "c",
-        "text": "Panoptikum-Kino 5 ÖIF Sie hören fünf Ansagen aus dem Radio. Zu jeder Ansage gibt es eine Aufgabe. Welche Lösung (a, b oder c) passt am besten? Markieren Sie Ihre Lösungen für die Aufgaben 5-9 auf dem Antwortbogen."
+        "text": "Panoptikum-Kino"
       }
     ]
   },
   {
     "id": 10,
     "section": "hoeren-3",
-    "prompt": "Die Kundin ist umgezogen und sucht neue Möbel.",
+    "prompt": "Die Kundin ist umgezogen und sucht neue Möbel richtig/falsch",
     "answer": "richtig",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -207,29 +208,30 @@
   {
     "id": 11,
     "section": "hoeren-3",
-    "prompt": "Das Sofa soll.",
+    "prompt": "Das Sofa soll",
     "answer": "b",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "billig sein."
+        "text": "billig sein"
       },
       {
         "id": "b",
-        "text": "hell sein."
+        "text": "hell sein"
       },
       {
         "id": "c",
-        "text": "klein sein."
+        "text": "klein sein"
       }
     ]
   },
   {
     "id": 12,
     "section": "hoeren-3",
-    "prompt": "Die Frau möchte mit einem Hund ins Taxi einsteigen.",
+    "prompt": "Die Frau möchte mit einem Hund ins Taxi einsteigen richtig/falsch",
     "answer": "richtig",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -244,29 +246,30 @@
   {
     "id": 13,
     "section": "hoeren-3",
-    "prompt": "Der Taxifahrer.",
+    "prompt": "Der Taxifahrer",
     "answer": "c",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "hat keinen Platz im Taxi."
+        "text": "hat keinen Platz im Taxi"
       },
       {
         "id": "b",
-        "text": "lässt die Frau nicht einsteigen."
+        "text": "lässt die Frau nicht einsteigen"
       },
       {
         "id": "c",
-        "text": "verlangt einen Beißkorb für den Hund."
+        "text": "verlangt einen Beißkorb für den Hund"
       }
     ]
   },
   {
     "id": 14,
     "section": "hoeren-3",
-    "prompt": "Die Frau und der Mann machen gemeinsam eine Diät.",
+    "prompt": "Die Frau und der Mann machen gemeinsam eine Diät richtig/falsch",
     "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -281,29 +284,30 @@
   {
     "id": 15,
     "section": "hoeren-3",
-    "prompt": "Die Frau soll.",
+    "prompt": "Die Frau soll",
     "answer": "c",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "Bücher zum Lernen mitbringen."
+        "text": "Bücher zum Lernen mitbringen"
       },
       {
         "id": "b",
-        "text": "Obst und Gemüse einkaufen."
+        "text": "Obst und Gemüse einkaufen"
       },
       {
         "id": "c",
-        "text": "nicht um 10.00 Uhr kommen."
+        "text": "nicht um 10.00 Uhr kommen"
       }
     ]
   },
   {
     "id": 16,
     "section": "hoeren-3",
-    "prompt": "Die Frau hat eine neue Arbeit gefunden.",
+    "prompt": "Die Frau hat eine neue Arbeit gefunden richtig/falsch",
     "answer": "richtig",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -318,94 +322,78 @@
   {
     "id": 17,
     "section": "hoeren-3",
-    "prompt": "Die Frau.",
+    "prompt": "Die Frau",
     "answer": "b",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "arbeitet jetzt in einem Restaurant."
+        "text": "arbeitet jetzt in einem Restaurant"
       },
       {
         "id": "b",
-        "text": "hatte einen guten Berater am Arbeitsmarktservice."
+        "text": "hatte einen guten Berater am Arbeitsmarktservice"
       },
       {
         "id": "c",
-        "text": "war vier Monate arbeitslos."
+        "text": "war vier Monate arbeitslos"
+      },
+      {
+        "id": "a",
+        "text": "muss ins Krankenhaus"
+      },
+      {
+        "id": "b",
+        "text": "fährt für ein paar Tage weg"
+      },
+      {
+        "id": "c",
+        "text": "liest keine Zeitungen £ £ richtig falsch £ £ £"
+      },
+      {
+        "id": "c",
+        "text": "Hören"
       }
     ]
   },
   {
     "id": 18,
     "section": "hoeren-4",
-    "prompt": "Aussage 18",
-    "answer": "b",
-    "shuffle": true,
+    "prompt": "…",
+    "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
-        "id": "a",
-        "text": "Gegen Rückenschmerzen helfen nur Schmerztabletten."
+        "id": "richtig",
+        "text": "richtig"
       },
       {
-        "id": "b",
-        "text": "Schlechte Schuhe können eine Ursache für Rückenschmerzen sein."
-      },
-      {
-        "id": "c",
-        "text": "Wer im Beruf viel sitzen muss, soll zwischendurch aufstehen und turnen."
-      },
-      {
-        "id": "d",
-        "text": "Auch viele junge Menschen leiden bereits unter Rückenschmerzen."
-      },
-      {
-        "id": "e",
-        "text": "Man bekommt Rückenschmerzen, wenn man Bücher vom Boden aufhebt."
-      },
-      {
-        "id": "f",
-        "text": "Gezieltes Muskeltraining entlastet die Wirbelsäule."
+        "id": "falsch",
+        "text": "falsch"
       }
     ]
   },
   {
     "id": 19,
     "section": "hoeren-4",
-    "prompt": "Aussage 19",
-    "answer": "f",
-    "shuffle": true,
+    "prompt": "…",
+    "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
-        "id": "a",
-        "text": "Gegen Rückenschmerzen helfen nur Schmerztabletten."
+        "id": "richtig",
+        "text": "richtig"
       },
       {
-        "id": "b",
-        "text": "Schlechte Schuhe können eine Ursache für Rückenschmerzen sein."
-      },
-      {
-        "id": "c",
-        "text": "Wer im Beruf viel sitzen muss, soll zwischendurch aufstehen und turnen."
-      },
-      {
-        "id": "d",
-        "text": "Auch viele junge Menschen leiden bereits unter Rückenschmerzen."
-      },
-      {
-        "id": "e",
-        "text": "Man bekommt Rückenschmerzen, wenn man Bücher vom Boden aufhebt."
-      },
-      {
-        "id": "f",
-        "text": "Gezieltes Muskeltraining entlastet die Wirbelsäule."
+        "id": "falsch",
+        "text": "falsch"
       }
     ]
   },
   {
     "id": 20,
     "section": "hoeren-4",
-    "prompt": "Aussage 20",
+    "prompt": "…",
     "answer": "d",
     "shuffle": true,
     "options": [
@@ -432,6 +420,10 @@
       {
         "id": "f",
         "text": "Gezieltes Muskeltraining entlastet die Wirbelsäule."
+      },
+      {
+        "id": "f",
+        "text": "Hören"
       }
     ]
   },
@@ -444,15 +436,15 @@
     "options": [
       {
         "id": "a",
-        "text": "4. OG."
+        "text": "4. OG"
       },
       {
         "id": "b",
-        "text": "EG."
+        "text": "EG"
       },
       {
         "id": "c",
-        "text": "anderes Stockwerk."
+        "text": "anderes Stockwerk"
       }
     ]
   },
@@ -465,15 +457,15 @@
     "options": [
       {
         "id": "a",
-        "text": "3. OG."
+        "text": "3. OG"
       },
       {
         "id": "b",
-        "text": "1. OG."
+        "text": "1. OG"
       },
       {
         "id": "c",
-        "text": "anderes Stockwerk."
+        "text": "anderes Stockwerk"
       }
     ]
   },
@@ -486,15 +478,15 @@
     "options": [
       {
         "id": "a",
-        "text": "EG."
+        "text": "EG"
       },
       {
         "id": "b",
-        "text": "3. OG."
+        "text": "3. OG"
       },
       {
         "id": "c",
-        "text": "anderes Stockwerk."
+        "text": "anderes Stockwerk"
       }
     ]
   },
@@ -507,15 +499,15 @@
     "options": [
       {
         "id": "a",
-        "text": "3. OG."
+        "text": "3. OG"
       },
       {
         "id": "b",
-        "text": "EG."
+        "text": "EG"
       },
       {
         "id": "c",
-        "text": "anderes Stockwerk."
+        "text": "anderes Stockwerk"
       }
     ]
   },
@@ -528,15 +520,27 @@
     "options": [
       {
         "id": "a",
-        "text": "4. OG."
+        "text": "4. OG"
       },
       {
         "id": "b",
-        "text": "2. OG."
+        "text": "2. OG"
       },
       {
         "id": "c",
-        "text": "anderes Stockwerk."
+        "text": "anderes Stockwerk"
+      },
+      {
+        "id": "a",
+        "text": "EG"
+      },
+      {
+        "id": "b",
+        "text": "4. OG"
+      },
+      {
+        "id": "c",
+        "text": "anderes Stockwerk £ £ £"
       }
     ]
   },
@@ -544,43 +548,16 @@
     "id": 26,
     "section": "lesen-2",
     "prompt": "Eine Freundin von Ihnen sucht eine Stelle als Verkäuferin für Möbel oder Textilien.",
-    "answer": "b",
+    "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
-        "id": "a",
-        "text": "Anzeige a"
+        "id": "richtig",
+        "text": "richtig"
       },
       {
-        "id": "b",
-        "text": "Anzeige b"
-      },
-      {
-        "id": "c",
-        "text": "Anzeige c"
-      },
-      {
-        "id": "d",
-        "text": "Anzeige d"
-      },
-      {
-        "id": "e",
-        "text": "Anzeige e"
-      },
-      {
-        "id": "f",
-        "text": "Anzeige f"
-      },
-      {
-        "id": "g",
-        "text": "Anzeige g"
-      },
-      {
-        "id": "h",
-        "text": "Anzeige h"
-      },
-      {
-        "id": "x",
-        "text": "keine L?sung"
+        "id": "falsch",
+        "text": "falsch"
       }
     ]
   },
@@ -588,43 +565,16 @@
     "id": 27,
     "section": "lesen-2",
     "prompt": "Sie suchen für Ihren Neffen gute Möbel für sein Zimmer. Er ist 16 Jahre alt.",
-    "answer": "g",
+    "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
-        "id": "a",
-        "text": "Anzeige a"
+        "id": "richtig",
+        "text": "richtig"
       },
       {
-        "id": "b",
-        "text": "Anzeige b"
-      },
-      {
-        "id": "c",
-        "text": "Anzeige c"
-      },
-      {
-        "id": "d",
-        "text": "Anzeige d"
-      },
-      {
-        "id": "e",
-        "text": "Anzeige e"
-      },
-      {
-        "id": "f",
-        "text": "Anzeige f"
-      },
-      {
-        "id": "g",
-        "text": "Anzeige g"
-      },
-      {
-        "id": "h",
-        "text": "Anzeige h"
-      },
-      {
-        "id": "x",
-        "text": "keine L?sung"
+        "id": "falsch",
+        "text": "falsch"
       }
     ]
   },
@@ -632,43 +582,16 @@
     "id": 28,
     "section": "lesen-2",
     "prompt": "Sie suchen ein Klavier.",
-    "answer": "x",
+    "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
-        "id": "a",
-        "text": "Anzeige a"
+        "id": "richtig",
+        "text": "richtig"
       },
       {
-        "id": "b",
-        "text": "Anzeige b"
-      },
-      {
-        "id": "c",
-        "text": "Anzeige c"
-      },
-      {
-        "id": "d",
-        "text": "Anzeige d"
-      },
-      {
-        "id": "e",
-        "text": "Anzeige e"
-      },
-      {
-        "id": "f",
-        "text": "Anzeige f"
-      },
-      {
-        "id": "g",
-        "text": "Anzeige g"
-      },
-      {
-        "id": "h",
-        "text": "Anzeige h"
-      },
-      {
-        "id": "x",
-        "text": "keine L?sung"
+        "id": "falsch",
+        "text": "falsch"
       }
     ]
   },
@@ -676,95 +599,42 @@
     "id": 29,
     "section": "lesen-2",
     "prompt": "Sie suchen ganz neu gemachte Möbel in guter Qualität.",
-    "answer": "h",
+    "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
-        "id": "a",
-        "text": "Anzeige a"
+        "id": "richtig",
+        "text": "richtig"
       },
       {
-        "id": "b",
-        "text": "Anzeige b"
-      },
-      {
-        "id": "c",
-        "text": "Anzeige c"
-      },
-      {
-        "id": "d",
-        "text": "Anzeige d"
-      },
-      {
-        "id": "e",
-        "text": "Anzeige e"
-      },
-      {
-        "id": "f",
-        "text": "Anzeige f"
-      },
-      {
-        "id": "g",
-        "text": "Anzeige g"
-      },
-      {
-        "id": "h",
-        "text": "Anzeige h"
-      },
-      {
-        "id": "x",
-        "text": "keine L?sung"
+        "id": "falsch",
+        "text": "falsch"
       }
     ]
   },
   {
     "id": 30,
     "section": "lesen-2",
-    "prompt": "Sie möchten einen wertvollen, alten Kasten verkaufen. 10 ÖIF.",
-    "answer": "e",
+    "prompt": "Sie möchten einen wertvollen, alten Kasten verkaufen. Lesen",
+    "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
-        "id": "a",
-        "text": "Anzeige a"
+        "id": "richtig",
+        "text": "richtig"
       },
       {
-        "id": "b",
-        "text": "Anzeige b"
-      },
-      {
-        "id": "c",
-        "text": "Anzeige c"
-      },
-      {
-        "id": "d",
-        "text": "Anzeige d"
-      },
-      {
-        "id": "e",
-        "text": "Anzeige e"
-      },
-      {
-        "id": "f",
-        "text": "Anzeige f"
-      },
-      {
-        "id": "g",
-        "text": "Anzeige g"
-      },
-      {
-        "id": "h",
-        "text": "Anzeige h"
-      },
-      {
-        "id": "x",
-        "text": "keine L?sung"
+        "id": "falsch",
+        "text": "falsch"
       }
     ]
   },
   {
     "id": 31,
     "section": "lesen-3",
-    "prompt": "Alle Mitglieder von einem Verein sollen sich treffen.",
+    "prompt": "Alle Mitglieder von einem Verein sollen sich treffen richtig/falsch",
     "answer": "richtig",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -779,29 +649,30 @@
   {
     "id": 32,
     "section": "lesen-3",
-    "prompt": "Am Herbstfest.",
+    "prompt": "Am Herbstfest",
     "answer": "a",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "gibt es Programmangebote."
+        "text": "gibt es Programmangebote"
       },
       {
         "id": "b",
-        "text": "dürfen nur Vereinsmitglieder teilnehmen."
+        "text": "dürfen nur Vereinsmitglieder teilnehmen"
       },
       {
         "id": "c",
-        "text": "muss man Eintritt bezahlen Liebe Vereinsmitglieder Bald ist es wieder soweit. Wie jedes Jahr findet auch heuer wieder unsere Jahreshauptversammlung im Café „Lindenhof“ in der Siedlerstraße 23 statt."
+        "text": "muss man Eintritt bezahlen"
       }
     ]
   },
   {
     "id": 33,
     "section": "lesen-3",
-    "prompt": "Mehr körperliche Bewegung soll gefördert werden.",
+    "prompt": "Mehr körperliche Bewegung soll gefördert werden richtig/falsch",
     "answer": "richtig",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -816,29 +687,30 @@
   {
     "id": 34,
     "section": "lesen-3",
-    "prompt": "Eine aktuelle Studie in Österreich zeigt.",
+    "prompt": "Eine aktuelle Studie in Österreich zeigt",
     "answer": "a",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "dass sich ein Teil der Jugendlichen zu wenig bewegt."
+        "text": "dass sich ein Teil der Jugendlichen zu wenig bewegt"
       },
       {
         "id": "b",
-        "text": "dass sich mehr als die Hälfte der Erwachsenen gesundheitsfördernd bewegt."
+        "text": "dass sich mehr als die Hälfte der Erwachsenen gesundheitsfördernd bewegt"
       },
       {
         "id": "c",
-        "text": "dass sich ältere Menschen überhaupt nicht gesund bewegen Gesund durch mehr Bewegung Eine aktuelle Studie über das Bewegungsverhalten der öster­ reichischen Bevölkerung zeigt, dass sich viele Menschen in Österreich zu wenig bewegen."
+        "text": "dass sich ältere Menschen überhaupt nicht gesund bewegen Gesund durch mehr Bewegung Eine aktuelle Studie über das Bewegungsverhalten der öster reichischen Bevölkerung zeigt, dass sich viele Menschen in Österreich zu wenig bewegen. Nur etwa 20 Prozent der 11- bis 15-jährigen Schulkinder be wegen ihren Körper so, dass die körperliche Bewegung ihre Gesundheit fördert. Bei den Erwachsenen ist es nicht viel besser: Hier bewegt sich nur zirka ein Viertel aller Erwachsenen so, dass es gesundheits- fördernd ist. Mehr als ein Drittel der Bevölkerung betreibt keine körperlichen Aktivitäten, die wenigstens ein bisschen anstrengend sind. Je älter die Menschen sind, desto weniger bewegen sie sich. Bei älteren Menschen nimmt der Anteil an Personen, die min- destens einmal pro Woche wegen ihrer körperlichen Aktivität ins Schwitzen kommen, deutlich ab. Die Förderung der Gesundheit durch mehr Bewegung ist daher in jedem Alter dringend notwendig. Lesen"
       }
     ]
   },
   {
     "id": 35,
     "section": "lesen-3",
-    "prompt": "Herr Broder hat seine Bestellung nicht bezahlt.",
+    "prompt": "Herr Broder hat seine Bestellung nicht bezahlt richtig/falsch",
     "answer": "richtig",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -853,29 +725,30 @@
   {
     "id": 36,
     "section": "lesen-3",
-    "prompt": "Herr Broder.",
+    "prompt": "Herr Broder",
     "answer": "c",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "muss keine Mahnspesen bezahlen."
+        "text": "muss keine Mahnspesen bezahlen"
       },
       {
         "id": "b",
-        "text": "hat das Geld schon überwiesen."
+        "text": "hat das Geld schon überwiesen"
       },
       {
         "id": "c",
-        "text": "muss am 15.02 mehr bezahlen als vorher Sehr geehrter Herr Broder, Wir beziehen uns auf unsere Rechnung Nr. 3456 vom 19.12. über € 324,60 Sie haben damals mittels Bestellschein Pullover, Jacken und Hosen bestellt."
+        "text": "muss am 15.02 mehr bezahlen als vorher"
       }
     ]
   },
   {
     "id": 37,
     "section": "lesen-4",
-    "prompt": "Man darf bis 22.00 Uhr laut Musik hören.",
+    "prompt": "Man darf bis 22.00 Uhr laut Musik hören. richtig/falsch",
     "answer": "richtig",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -890,8 +763,9 @@
   {
     "id": 38,
     "section": "lesen-4",
-    "prompt": "Wenn man auszieht, darf man sich einen Wohnungsschlüssel behalten.",
+    "prompt": "Wenn man auszieht, darf man sich einen Wohnungsschlüssel behalten. richtig/falsch",
     "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -906,8 +780,9 @@
   {
     "id": 39,
     "section": "lesen-4",
-    "prompt": "Man darf das Haustor zusperren.",
+    "prompt": "Man darf das Haustor zusperren. richtig/falsch Hausordnung Reinigung, Sauberkeit Alle Mitbewohner müssen die Räume und Flä- chen, die sie gemietet haben, reinigen und sauber halten. Der Müll muss in den Müllraum gebracht werden. Beschädigungen Wer etwas in den Gemeinschaftsräumen absicht- lich beschädigt, muss den Schaden bezahlen. Keine Bau-Veränderungen an den Wohnungen Die Mieterinnen und Mieter dürfen ohne Bewilli- gung des Hauseigentümers keine Wand einrei- ßen. Niemand darf ohne Bewilligung des Haus- eigentümers in seiner Wohnung eine neue Wand bauen. Auszug Wenn jemand auszieht, dann muss die Wohnung so zurückgegeben werden, wie sie am Anfang übernommen wurde. Schäden müssen repariert werden. Alle Schlüssel müssen zurückgegeben werden. Friedliches Zusammenleben Alle Mieterinnen und Mieter und ihre Familien sollen im Haus friedlich zusammenleben. Der Hausfrieden soll nicht gestört werden. Nachtruhe In der Zeit von 22.00 Uhr bis 6.00 Uhr darf die Nachtruhe nicht gestört werden. An Sonn- und Feiertagen darf die Wochenend-Ruhe nicht ge- stört werden. Radio, Musik und Fernsehen sind in dieser Zeit nur in Zimmerlautstärke erlaubt. Für das Spiel der Kinder stehen der Kinderspielraum und der Kleinkinderspielplatz zur Verfügung. Haustor Das Haustor muss geschlossen sein, darf aber nicht mit einem Schlüssel abgesperrt werden. Haustiere Das Halten von Haustieren ist nur nach schriftli- cher Genehmigung der Hausverwaltung erlaubt. Gefährliche Tiere oder Tiere, die nicht in eine Wohnung gehören, sind verboten. Lesen",
     "answer": "falsch",
+    "shuffle": false,
     "options": [
       {
         "id": "richtig",
@@ -922,126 +797,126 @@
   {
     "id": 40,
     "section": "lesen-5",
-    "prompt": "L?cke 40",
+    "prompt": "Lücke 40",
     "answer": "c",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "obwohl."
+        "text": "obwohl"
       },
       {
         "id": "b",
-        "text": "doch."
+        "text": "doch"
       },
       {
         "id": "c",
-        "text": "weil."
+        "text": "weil"
       }
     ]
   },
   {
     "id": 41,
     "section": "lesen-5",
-    "prompt": "L?cke 41",
+    "prompt": "Lücke 41",
     "answer": "c",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "weil."
+        "text": "weil"
       },
       {
         "id": "b",
-        "text": "denn."
+        "text": "denn"
       },
       {
         "id": "c",
-        "text": "wo."
+        "text": "wo"
       }
     ]
   },
   {
     "id": 42,
     "section": "lesen-5",
-    "prompt": "L?cke 42",
+    "prompt": "Lücke 42",
     "answer": "b",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "erst."
+        "text": "erst"
       },
       {
         "id": "b",
-        "text": "schon."
+        "text": "schon"
       },
       {
         "id": "c",
-        "text": "wie."
+        "text": "wie"
       }
     ]
   },
   {
     "id": 43,
     "section": "lesen-5",
-    "prompt": "L?cke 43",
+    "prompt": "Lücke 43",
     "answer": "c",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "wann."
+        "text": "wann"
       },
       {
         "id": "b",
-        "text": "als."
+        "text": "als"
       },
       {
         "id": "c",
-        "text": "dass."
+        "text": "dass"
       }
     ]
   },
   {
     "id": 44,
     "section": "lesen-5",
-    "prompt": "L?cke 44",
+    "prompt": "Lücke 44",
     "answer": "a",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "möchten."
+        "text": "möchten"
       },
       {
         "id": "b",
-        "text": "müssen."
+        "text": "müssen"
       },
       {
         "id": "c",
-        "text": "sollen."
+        "text": "sollen"
       }
     ]
   },
   {
     "id": 45,
     "section": "lesen-5",
-    "prompt": "L?cke 45",
+    "prompt": "Lücke 45",
     "answer": "b",
     "shuffle": true,
     "options": [
       {
         "id": "a",
-        "text": "obwohl."
+        "text": "obwohl"
       },
       {
         "id": "b",
-        "text": "ob."
+        "text": "ob"
       },
       {
         "id": "c",
-        "text": "als."
+        "text": "als"
       }
     ]
   }
