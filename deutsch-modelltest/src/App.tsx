@@ -272,6 +272,7 @@ function TestRunner({ test, onBack }: { test: ModelTest; onBack: () => void }) {
   const active = test.sections.find((section) => section.id === activeSectionId) ?? test.sections[0]
   const sectionQuestions = test.questions.filter((question) => question.section === active.id)
   const hasInteractiveQuestions = test.questions.length > 0
+  const scoreMode = test.scoreMode ?? 'points'
   const totalPoints = test.thresholds.readingListening.total
   const totalQuestionCount = test.questions.length
   const wrongAfterCheck = totalQuestionCount - stats.correct
@@ -279,6 +280,9 @@ function TestRunner({ test, onBack }: { test: ModelTest; onBack: () => void }) {
   const activeSectionPoints = sectionQuestions
     .filter((question) => answers[question.id] === question.answer)
     .reduce((total, question) => total + (question.points ?? 1), 0)
+  const activeSectionCorrectCount = sectionQuestions.filter((question) => answers[question.id] === question.answer).length
+  const activeSectionAnsweredCount = sectionQuestions.filter((question) => answers[question.id]).length
+  const activeSectionWrongCount = sectionQuestions.length - activeSectionCorrectCount
   const activeSectionScore = checked ? activeSectionPoints : 0
   const activeSectionTotal = sectionQuestions.reduce((total, question) => total + (question.points ?? 1), 0)
   const displayedCorrect = checked ? stats.correct : 0
@@ -293,6 +297,25 @@ function TestRunner({ test, onBack }: { test: ModelTest; onBack: () => void }) {
   const hasWriting = writing.trim() !== '' && !Number.isNaN(writingScore)
   const hasSpeaking = speaking.trim() !== '' && !Number.isNaN(speakingScore)
   const listeningReadingPassed = stats.points >= test.thresholds.readingListening.pass
+  const scoreCards =
+    scoreMode === 'count'
+      ? [
+          [`${checked ? activeSectionCorrectCount : 0}`, 'richtig'],
+          [`${checked ? activeSectionWrongCount : 0}`, 'falsch / leer'],
+          [`${activeSectionAnsweredCount}/${sectionQuestions.length}`, 'beantwortet'],
+          [`${sectionQuestions.length}`, 'Fragen in diesem Test'],
+          [checked ? 'Ausgewertet' : 'Offen', 'Status'],
+        ]
+      : [
+          [`${displayedPoints}`, `/${totalPoints} Punkte`],
+          [`${displayedPercent}`, '/100 Prozent'],
+          [`${displayedCorrect}`, 'richtig'],
+          [`${displayedWrong}`, 'falsch / leer'],
+          [
+            checked ? (listeningReadingPassed ? passLabel : failLabel) : `${stats.answered}/${totalQuestionCount}`,
+            checked ? `${active.title}: ${activeSectionScore}/${activeSectionTotal}` : 'beantwortet',
+          ],
+        ]
   const writingPassed = hasWriting && writingScore >= (test.thresholds.writing?.pass ?? Number.POSITIVE_INFINITY)
   const speakingPassed = hasSpeaking && speakingScore >= (test.thresholds.speaking?.pass ?? Number.POSITIVE_INFINITY)
   const fullDecision = hasWriting && hasSpeaking ? listeningReadingPassed && writingPassed && speakingPassed : null
@@ -359,16 +382,7 @@ function TestRunner({ test, onBack }: { test: ModelTest; onBack: () => void }) {
 
       {hasInteractiveQuestions ? (
         <Grid container columns={5} sx={{ borderBottom: 1, borderColor: 'divider', bgcolor: 'background.paper' }}>
-          {[
-            [`${displayedPoints}`, `/${totalPoints} Punkte`],
-            [`${displayedPercent}`, '/100 Prozent'],
-            [`${displayedCorrect}`, 'richtig'],
-            [`${displayedWrong}`, 'falsch / leer'],
-            [
-              checked ? (listeningReadingPassed ? passLabel : failLabel) : `${stats.answered}/${totalQuestionCount}`,
-              checked ? `${active.title}: ${activeSectionScore}/${activeSectionTotal}` : 'beantwortet',
-            ],
-          ].map(([value, label]) => (
+          {scoreCards.map(([value, label]) => (
             <Grid key={`${value}-${label}`} size={{ xs: 5, sm: 1 }} sx={{ p: 2.5, borderRight: { sm: 1 }, borderColor: 'divider' }}>
               <Typography variant="h4" sx={{ fontWeight: 900 }}>
                 {value}
@@ -469,7 +483,7 @@ function TestRunner({ test, onBack }: { test: ModelTest; onBack: () => void }) {
                   }}
                 >
                   <Stack direction="row" spacing={2} sx={{ alignItems: 'flex-start', p: 2, borderBottom: 1, borderColor: 'divider' }}>
-                    <Chip label={question.id} sx={{ fontWeight: 900 }} />
+                    <Chip label={question.displayId ?? question.id} sx={{ fontWeight: 900 }} />
                     <Typography sx={{ flex: 1, pt: 0.5, fontWeight: 900 }}>
                       {question.prompt}
                     </Typography>

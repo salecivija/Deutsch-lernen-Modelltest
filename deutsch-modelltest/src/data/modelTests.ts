@@ -1,6 +1,6 @@
 import type { ModelTest, Option } from '../types'
 import { b1PracticeQuestions } from './b1PracticeQuestions'
-import { b1ValuesQuestions } from './b1ValuesQuestions'
+import { b1ValuesAllQuestions, b1ValuesQuestionSets } from './b1ValuesQuestions'
 
 const audioFiles = [
   'audio-01.mp3',
@@ -37,7 +37,7 @@ const b1WerteOrientierung: ModelTest = {
   exam: 'Werte- und Orientierungswissen',
   provider: 'Sprachportal / Österreichischer Integrationsfonds',
   description:
-    'Fragenkatalog und Modelltest zum Werte- und Orientierungswissen B1. Sie üben hier den Werteteil mit automatischer Auswertung.',
+    'Fragenkatalog und mehrere Modelltests zum Werte- und Orientierungswissen B1. Die Auswertung zählt richtige und falsche Antworten.',
   status: 'available',
   sourceUrl: 'https://sprachportal.at/lernmaterial/',
   webAssetBase: 'assets/tests/B1/test-0',
@@ -46,8 +46,9 @@ const b1WerteOrientierung: ModelTest = {
   order: 0,
   assets: [{ label: 'Testheft', path: 'assets/tests/B1/test-0/pdf/testheft.pdf' }],
   thresholds: {
-    readingListening: { total: 45, pass: 25 },
+    readingListening: { total: 72, pass: 0 },
   },
+  scoreMode: 'count',
   sections: [
     {
       id: 'werte-modelltest-1',
@@ -56,8 +57,42 @@ const b1WerteOrientierung: ModelTest = {
       time: '40 Minuten',
       pages: [38, 39],
     },
+    {
+      id: 'werte-modelltest-2',
+      title: 'Werte-Modelltest 2',
+      skill: 'Wertewissen',
+      time: '40 Minuten',
+      pages: [40, 41],
+    },
+    {
+      id: 'werte-modelltest-3',
+      title: 'Werte-Modelltest 3',
+      skill: 'Wertewissen',
+      time: 'Übung',
+      pages: [13, 14, 15, 16, 17, 18, 19],
+    },
+    {
+      id: 'werte-modelltest-4',
+      title: 'Werte-Modelltest 4',
+      skill: 'Wertewissen',
+      time: 'Übung',
+      pages: [26, 27, 28, 29, 30, 31, 32, 33, 34],
+    },
+    {
+      id: 'werte-alle-fragen',
+      title: 'Alle Fragen',
+      skill: 'Wertewissen',
+      time: 'Übung ohne Punkte',
+      pages: [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 38, 39, 40, 41],
+    },
   ],
-  questions: b1ValuesQuestions,
+  questions: [
+    ...b1ValuesQuestionSets.modelltest1,
+    ...b1ValuesQuestionSets.modelltest2,
+    ...b1ValuesQuestionSets.modelltest3,
+    ...b1ValuesQuestionSets.modelltest4,
+    ...b1ValuesAllQuestions,
+  ],
 }
 
 const dtoeA2B1: ModelTest = {

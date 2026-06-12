@@ -11,6 +11,7 @@ export type Option = {
 
 export type Question = {
   id: number
+  displayId?: number | string
   section: string
   prompt: string
   answer: string
@@ -67,4 +68,5 @@ export type ModelTest = {
   sections: TestSection[]
   questions: Question[]
   thresholds: ScoreThresholds
+  scoreMode?: 'points' | 'count'
 }
