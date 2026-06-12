@@ -256,8 +256,9 @@ function TestRunner({ test, onBack }: { test: ModelTest; onBack: () => void }) {
   const [speaking, setSpeaking] = useState('')
 
   const stats = useMemo(() => {
-    const correct = test.questions.filter((question) => answers[question.id] === question.answer).length
-    return { correct, answered: Object.keys(answers).length }
+    const correctQuestions = test.questions.filter((question) => answers[question.id] === question.answer)
+    const points = correctQuestions.reduce((total, question) => total + (question.points ?? 1), 0)
+    return { correct: correctQuestions.length, points, answered: Object.keys(answers).length }
   }, [answers, test.questions])
 
   const reset = () => {
@@ -271,20 +272,27 @@ function TestRunner({ test, onBack }: { test: ModelTest; onBack: () => void }) {
   const active = test.sections.find((section) => section.id === activeSectionId) ?? test.sections[0]
   const sectionQuestions = test.questions.filter((question) => question.section === active.id)
   const hasInteractiveQuestions = test.questions.length > 0
-  const totalQuestions = test.thresholds.readingListening.total
-  const wrongAfterCheck = totalQuestions - stats.correct
-  const percentAfterCheck = Math.round((stats.correct / totalQuestions) * 100)
-  const activeSectionCorrect = sectionQuestions.filter((question) => answers[question.id] === question.answer).length
-  const activeSectionScore = checked ? activeSectionCorrect : 0
+  const totalPoints = test.thresholds.readingListening.total
+  const totalQuestionCount = test.questions.length
+  const wrongAfterCheck = totalQuestionCount - stats.correct
+  const percentAfterCheck = Math.round((stats.points / totalPoints) * 100)
+  const activeSectionPoints = sectionQuestions
+    .filter((question) => answers[question.id] === question.answer)
+    .reduce((total, question) => total + (question.points ?? 1), 0)
+  const activeSectionScore = checked ? activeSectionPoints : 0
+  const activeSectionTotal = sectionQuestions.reduce((total, question) => total + (question.points ?? 1), 0)
   const displayedCorrect = checked ? stats.correct : 0
   const displayedWrong = checked ? wrongAfterCheck : 0
-  const displayedPoints = checked ? stats.correct : 0
+  const displayedPoints = checked ? stats.points : 0
   const displayedPercent = checked ? percentAfterCheck : 0
+  const hasManualScore = Boolean(test.thresholds.writing || test.thresholds.speaking)
+  const passLabel = hasManualScore ? 'B1' : 'Bestanden'
+  const failLabel = hasManualScore ? 'unter B1' : 'Nicht bestanden'
   const writingScore = Number(writing)
   const speakingScore = Number(speaking)
   const hasWriting = writing.trim() !== '' && !Number.isNaN(writingScore)
   const hasSpeaking = speaking.trim() !== '' && !Number.isNaN(speakingScore)
-  const listeningReadingPassed = stats.correct >= test.thresholds.readingListening.pass
+  const listeningReadingPassed = stats.points >= test.thresholds.readingListening.pass
   const writingPassed = hasWriting && writingScore >= (test.thresholds.writing?.pass ?? Number.POSITIVE_INFINITY)
   const speakingPassed = hasSpeaking && speakingScore >= (test.thresholds.speaking?.pass ?? Number.POSITIVE_INFINITY)
   const fullDecision = hasWriting && hasSpeaking ? listeningReadingPassed && writingPassed && speakingPassed : null
@@ -352,11 +360,14 @@ function TestRunner({ test, onBack }: { test: ModelTest; onBack: () => void }) {
       {hasInteractiveQuestions ? (
         <Grid container columns={5} sx={{ borderBottom: 1, borderColor: 'divider', bgcolor: 'background.paper' }}>
           {[
-            [`${displayedPoints}`, `/${totalQuestions} Punkte`],
+            [`${displayedPoints}`, `/${totalPoints} Punkte`],
             [`${displayedPercent}`, '/100 Prozent'],
             [`${displayedCorrect}`, 'richtig'],
             [`${displayedWrong}`, 'falsch / leer'],
-            [checked ? (listeningReadingPassed ? 'B1' : 'unter B1') : `${stats.answered}/${totalQuestions}`, checked ? `${active.title}: ${activeSectionScore}/${sectionQuestions.length}` : 'beantwortet'],
+            [
+              checked ? (listeningReadingPassed ? passLabel : failLabel) : `${stats.answered}/${totalQuestionCount}`,
+              checked ? `${active.title}: ${activeSectionScore}/${activeSectionTotal}` : 'beantwortet',
+            ],
           ].map(([value, label]) => (
             <Grid key={`${value}-${label}`} size={{ xs: 5, sm: 1 }} sx={{ p: 2.5, borderRight: { sm: 1 }, borderColor: 'divider' }}>
               <Typography variant="h4" sx={{ fontWeight: 900 }}>
@@ -492,7 +503,7 @@ function TestRunner({ test, onBack }: { test: ModelTest; onBack: () => void }) {
               )
             })}
 
-            {hasInteractiveQuestions && (
+            {hasInteractiveQuestions && hasManualScore && (
               <Paper variant="outlined" sx={{ p: 3, bgcolor: 'background.paper' }}>
                 <Stack spacing={2}>
                   <Box>

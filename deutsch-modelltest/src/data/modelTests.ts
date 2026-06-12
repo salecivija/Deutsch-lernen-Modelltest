@@ -1,5 +1,6 @@
 import type { ModelTest, Option } from '../types'
 import { b1PracticeQuestions } from './b1PracticeQuestions'
+import { b1ValuesQuestions } from './b1ValuesQuestions'
 
 const audioFiles = [
   'audio-01.mp3',
@@ -26,6 +27,38 @@ const anzeigen: Option[] = [
   { id: 'h', text: 'Anzeige h' },
   { id: 'x', text: 'keine Lösung' },
 ]
+
+const b1WerteOrientierung: ModelTest = {
+  id: 'b1-werte-orientierungswissen-2024',
+  title: 'B1 Werte- und Orientierungswissen',
+  cardTitle: 'B1 Werte- und Orientierungswissen',
+  level: 'B1',
+  libraryLevel: 'B1',
+  exam: 'Werte- und Orientierungswissen',
+  provider: 'Sprachportal / Österreichischer Integrationsfonds',
+  description:
+    'Fragenkatalog und Modelltest zum Werte- und Orientierungswissen B1. Sie üben hier den Werteteil mit automatischer Auswertung.',
+  status: 'available',
+  sourceUrl: 'https://sprachportal.at/lernmaterial/',
+  webAssetBase: 'assets/tests/B1/test-0',
+  coverImage: 'assets/tests/B1/test-0/covers/cover.png',
+  tags: ['Wertewissen', 'Orientierungswissen', 'B1', 'Kostenlos', 'Österreich', 'Modelltest'],
+  order: 0,
+  assets: [{ label: 'Testheft', path: 'assets/tests/B1/test-0/pdf/testheft.pdf' }],
+  thresholds: {
+    readingListening: { total: 45, pass: 25 },
+  },
+  sections: [
+    {
+      id: 'werte-modelltest-1',
+      title: 'Werte-Modelltest 1',
+      skill: 'Wertewissen',
+      time: '40 Minuten',
+      pages: [38, 39],
+    },
+  ],
+  questions: b1ValuesQuestions,
+}
 
 const dtoeA2B1: ModelTest = {
   id: 'dtoe-a2-b1-modelltest-1',
@@ -201,4 +234,4 @@ const b1PracticeTests: ModelTest[] = [
   },
 ]
 
-export const modelTests: ModelTest[] = [dtoeA2B1, ...b1PracticeTests]
+export const modelTests: ModelTest[] = [b1WerteOrientierung, dtoeA2B1, ...b1PracticeTests]

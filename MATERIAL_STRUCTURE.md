@@ -10,6 +10,7 @@ All exam materials and test data are organized outside the app under:
 
 ```text
 import/
+  raw/
   A1/
     test-1/
     test-2/
@@ -35,6 +36,7 @@ import/<LEVEL>/test-<N>/
 
 ## Folder Roles
 
+- `import/raw/`: local inbox for newly received source materials. This folder is ignored by Git and must not be edited, moved or cleaned by automation.
 - `raw/`: original downloaded or received files, such as PDF files, answer sheets and MP3 audio.
 - `webapp-assets/`: processed files prepared for the web app, such as normalized audio filenames, cover images, rendered PDF pages and web-ready PDFs.
 - `metadata/`: extracted text, answer keys, parsing output, notes and helper screenshots.
@@ -51,9 +53,10 @@ The React app reads from that `public/assets/tests/...` structure, but the canon
 
 ## Adding a New Test
 
-1. Put original materials into `import/<LEVEL>/test-<N>/raw`.
-2. Prepare web-ready files in `import/<LEVEL>/test-<N>/webapp-assets`.
-3. Put extracted text, answer keys and notes into `import/<LEVEL>/test-<N>/metadata`.
-4. Copy final web assets into `deutsch-modelltest/public/assets/tests/<LEVEL>/test-<N>`.
-5. Add or update the matching entry in `deutsch-modelltest/src/data/modelTests.ts`.
+1. Drop new source materials into `import/raw/`.
+2. Copy the needed source files into `import/<LEVEL>/test-<N>/raw`.
+3. Prepare web-ready files in `import/<LEVEL>/test-<N>/webapp-assets`.
+4. Put extracted text, answer keys and notes into `import/<LEVEL>/test-<N>/metadata`.
+5. Copy final web assets into `deutsch-modelltest/public/assets/tests/<LEVEL>/test-<N>`.
+6. Add or update the matching entry in `deutsch-modelltest/src/data/modelTests.ts`.
 

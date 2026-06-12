@@ -12,6 +12,7 @@ Diese App ist die einzige Weboberfläche im Projekt. Neue Tests werden über Dat
 - Material UI Theme, Komponenten, Buttons, Tabs, Cards und Eingabefelder
 - Testauswahl innerhalb eines Niveaus
 - Originale PDF-Seiten links, interaktive Antworten rechts
+- Interaktiver B1-Test zu Werte- und Orientierungswissen mit gewichteter Bewertung
 - Audio-Wiedergabe für Hörteile
 - Automatische Auswertung für Hören und Lesen
 - Punktestand, Prozent, richtige und falsche Antworten erst nach `Auswerten`
@@ -68,6 +69,7 @@ This app is the single web interface in the project. New tests are added through
 - Material UI theme, components, buttons, tabs, cards and input fields
 - Test selection inside each level
 - Original PDF pages on the left, interactive answers on the right
+- Interactive B1 Werte- und Orientierungswissen test with weighted scoring
 - Audio playback for listening sections
 - Automatic scoring for listening and reading
 - Points, percentage, correct and wrong answers shown only after `Auswerten`

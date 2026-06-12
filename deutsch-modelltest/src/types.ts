@@ -1,4 +1,4 @@
-export type Skill = 'Hören' | 'Lesen' | 'Schreiben' | 'Sprechen'
+export type Skill = 'Hören' | 'Lesen' | 'Schreiben' | 'Sprechen' | 'Wertewissen'
 
 export type TestStatus = 'available' | 'planned'
 
@@ -16,6 +16,7 @@ export type Question = {
   answer: string
   options: Option[]
   shuffle?: boolean
+  points?: number
 }
 
 export type TestSection = {

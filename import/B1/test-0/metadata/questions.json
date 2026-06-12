@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "section": "werte-modelltest-1",
+    "prompt": "In ?sterreich ist Gewalt gegen Frauen verboten.",
+    "answer": "a",
+    "points": 2,
+    "shuffle": false,
+    "options": [
+      {
+        "id": "a",
+        "text": "richtig"
+      },
+      {
+        "id": "b",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "section": "werte-modelltest-1",
+    "prompt": "In ?sterreich d?rfen M?nner und Frauen zur Wahl gehen.",
+    "answer": "a",
+    "points": 2,
+    "shuffle": false,
+    "options": [
+      {
+        "id": "a",
+        "text": "richtig"
+      },
+      {
+        "id": "b",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "section": "werte-modelltest-1",
+    "prompt": "In ?sterreich schreibt der Bundespr?sident alle Gesetze.",
+    "answer": "b",
+    "points": 2,
+    "shuffle": false,
+    "options": [
+      {
+        "id": "a",
+        "text": "richtig"
+      },
+      {
+        "id": "b",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "section": "werte-modelltest-1",
+    "prompt": "In ?ffentliche Schulen gehen Buben und M?dchen.",
+    "answer": "a",
+    "points": 2,
+    "shuffle": false,
+    "options": [
+      {
+        "id": "a",
+        "text": "richtig"
+      },
+      {
+        "id": "b",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "section": "werte-modelltest-1",
+    "prompt": "Wenn man ein Fest in der Wohnung machen will, dann kann es laut werden. Man sollte deswegen vorher die Nachbarn und Nachbarinnen informieren.",
+    "answer": "a",
+    "points": 2,
+    "shuffle": false,
+    "options": [
+      {
+        "id": "a",
+        "text": "richtig"
+      },
+      {
+        "id": "b",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "section": "werte-modelltest-1",
+    "prompt": "Nach dem Zweiten Weltkrieg waren viele St?dte in ?sterreich zerst?rt.",
+    "answer": "a",
+    "points": 2,
+    "shuffle": false,
+    "options": [
+      {
+        "id": "a",
+        "text": "richtig"
+      },
+      {
+        "id": "b",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "section": "werte-modelltest-1",
+    "prompt": "In ?sterreich darf ein Mann nicht mit einem Mann Sex haben.",
+    "answer": "b",
+    "points": 2,
+    "shuffle": false,
+    "options": [
+      {
+        "id": "a",
+        "text": "richtig"
+      },
+      {
+        "id": "b",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "section": "werte-modelltest-1",
+    "prompt": "Das ?sterreichische Gesundheitssystem wird mit Steuern und Abgaben finanziert.",
+    "answer": "a",
+    "points": 2,
+    "shuffle": false,
+    "options": [
+      {
+        "id": "a",
+        "text": "richtig"
+      },
+      {
+        "id": "b",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "section": "werte-modelltest-1",
+    "prompt": "Wenn ein Kind eine ?ffentliche Schule besucht, m?ssen die Eltern kein Schulgeld bezahlen.",
+    "answer": "a",
+    "points": 2,
+    "shuffle": false,
+    "options": [
+      {
+        "id": "a",
+        "text": "richtig"
+      },
+      {
+        "id": "b",
+        "text": "falsch"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "section": "werte-modelltest-1",
+    "prompt": "In ?sterreich d?rfen homosexuelle M?nner oder Frauen ...",
+    "answer": "c",
+    "points": 3,
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "keine Beziehung haben."
+      },
+      {
+        "id": "b",
+        "text": "nicht heiraten."
+      },
+      {
+        "id": "c",
+        "text": "heiraten."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "section": "werte-modelltest-1",
+    "prompt": "Eine Person hat in ihrem Heimatland einen Beruf gelernt. Darf sie in ?sterreich in diesem Beruf arbeiten?",
+    "answer": "c",
+    "points": 3,
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Ja, sie darf immer sofort in diesem Beruf arbeiten."
+      },
+      {
+        "id": "b",
+        "text": "Nein, sie darf nie in diesem Beruf arbeiten."
+      },
+      {
+        "id": "c",
+        "text": "Sie muss sich informieren. Viele Ausbildungen und Qualifikationen m?ssen in ?sterreich anerkannt werden."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "section": "werte-modelltest-1",
+    "prompt": "Ein Arztbesuch kostet Patientinnen und Patienten in ?sterreich oft wenig oder gar nichts, wenn sie ...",
+    "answer": "a",
+    "points": 3,
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "versichert sind und eine e-card haben."
+      },
+      {
+        "id": "b",
+        "text": "die ?sterreichische Staatsb?rgerschaft haben."
+      },
+      {
+        "id": "c",
+        "text": "schon 10 Jahre in ?sterreich gelebt haben."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "section": "werte-modelltest-1",
+    "prompt": "Wie oft kann man die Vorsorgeuntersuchung machen?",
+    "answer": "a",
+    "points": 3,
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Einmal im Jahr."
+      },
+      {
+        "id": "b",
+        "text": "Einmal im Monat."
+      },
+      {
+        "id": "c",
+        "text": "Einmal in der Woche."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "section": "werte-modelltest-1",
+    "prompt": "Von wann bis wann gab es in ?sterreich eine nationalsozialistische Diktatur?",
+    "answer": "a",
+    "points": 3,
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "1938 bis 1945"
+      },
+      {
+        "id": "b",
+        "text": "1938 bis 1955"
+      },
+      {
+        "id": "c",
+        "text": "1940 bis 1948"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "section": "werte-modelltest-1",
+    "prompt": "Woher kommt das Geld f?r das ?sterreichische Sozialsystem?",
+    "answer": "a",
+    "points": 3,
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Von Menschen, die arbeiten und Steuern und Abgaben zahlen."
+      },
+      {
+        "id": "b",
+        "text": "Die Europ?ische Zentralbank bezahlt das ?sterreichische Sozialsystem."
+      },
+      {
+        "id": "c",
+        "text": "Die UNO bezahlt das ?sterreichische Sozialsystem."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "section": "werte-modelltest-1",
+    "prompt": "Was versteht man unter Meinungsfreiheit?",
+    "answer": "b",
+    "points": 3,
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Ich darf alles sagen."
+      },
+      {
+        "id": "b",
+        "text": "Ich darf meine Meinung sagen, aber ich darf dabei die Rechte von einem anderen Menschen nicht verletzen."
+      },
+      {
+        "id": "c",
+        "text": "Ich darf nur sagen, was der Regierung gef?llt."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "section": "werte-modelltest-1",
+    "prompt": "Wer muss die ?sterreichischen Gesetze befolgen?",
+    "answer": "c",
+    "points": 3,
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur ?sterreichische Staatsb?rgerinnen und Staatsb?rger."
+      },
+      {
+        "id": "b",
+        "text": "Nur Christinnen und Christen."
+      },
+      {
+        "id": "c",
+        "text": "Alle Menschen, die in ?sterreich sind."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "section": "werte-modelltest-1",
+    "prompt": "Sie leben in einer Wohnung und wissen, dass es eine Hausordnung gibt. Wo k?nnen Sie die Hausordnung finden?",
+    "answer": "b",
+    "points": 3,
+    "shuffle": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Im Rathaus."
+      },
+      {
+        "id": "b",
+        "text": "Bei der Hausverwaltung."
+      },
+      {
+        "id": "c",
+        "text": "Bei der Meldebeh?rde."
+      }
+    ]
+  }
+]

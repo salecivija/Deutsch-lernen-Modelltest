@@ -11,6 +11,9 @@ dist
 dist-ssr
 *.local
 
+# Local material inbox. Do not edit, move or commit source drops from here.
+import/raw/
+
 # Editor and OS files
 .vscode/*
 !.vscode/extensions.json

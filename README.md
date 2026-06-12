@@ -35,6 +35,7 @@ deutsch-modelltest/public/assets/tests/<NIVEAU>/test-<NUMMER>/
 
 ### Aktueller Stand
 
+- B1 Werte- und Orientierungswissen ist interaktiv umgesetzt.
 - B1 DTÖ Modelltest ist interaktiv umgesetzt.
 - B1 DTÖ Übungstest 1, 2 und 3 sind interaktiv umgesetzt.
 - Hören und Lesen werden automatisch ausgewertet.
@@ -83,6 +84,7 @@ deutsch-modelltest/public/assets/tests/<LEVEL>/test-<NUMBER>/
 
 ### Current State
 
+- B1 Werte- und Orientierungswissen is implemented interactively.
 - B1 DTÖ Modelltest is implemented interactively.
 - B1 DTÖ Übungstest 1, 2 and 3 are implemented interactively.
 - Listening and reading are scored automatically.
