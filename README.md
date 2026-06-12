@@ -4,12 +4,12 @@ Interaktive Modelltest-Bibliothek für Deutschprüfungen.
 
 ## Deutsch
 
-Dieses Repository enthält eine einzige React-Webapp und eine strukturierte Materialsammlung für Deutsch-Modelltests. Die Tests werden nicht als einzelne Apps gebaut, sondern als Daten, Medien und Assets in die zentrale Anwendung eingebunden.
+Dieses Repository enthält eine einzige React/Vite/TypeScript-Webapp mit Material UI und eine strukturierte Materialsammlung für Deutsch-Modelltests. Die Tests werden nicht als einzelne Apps gebaut, sondern als Daten, Medien und Assets in die zentrale Anwendung eingebunden.
 
 ### Projektstruktur
 
 ```text
-deutsch-modelltest/      React/Vite-Webapp
+deutsch-modelltest/      React/Vite/TypeScript-Webapp mit Material UI
 import/                  Rohmaterialien und vorbereitete Testdaten
 MATERIAL_STRUCTURE.md    Details zur Materialstruktur
 ```
@@ -52,12 +52,12 @@ Dieses Projekt ist eine Lern- und Übungsoberfläche. Die Originalmaterialien, A
 
 ## English
 
-This repository contains a single React web app and a structured material library for German model tests. Tests are not built as separate applications; they are added as data, media and assets to the central app.
+This repository contains a single React/Vite/TypeScript web app with Material UI and a structured material library for German model tests. Tests are not built as separate applications; they are added as data, media and assets to the central app.
 
 ### Project Structure
 
 ```text
-deutsch-modelltest/      React/Vite web app
+deutsch-modelltest/      React/Vite/TypeScript web app with Material UI
 import/                  Raw materials and prepared test data
 MATERIAL_STRUCTURE.md    Details about the material structure
 ```

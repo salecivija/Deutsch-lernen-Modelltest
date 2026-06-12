@@ -1,14 +1,15 @@
 # Deutsch Modelltest Webapp
 
-React/Vite application for the Deutsch lernen Modelltest library.
+React/Vite/TypeScript application with Material UI for the Deutsch lernen Modelltest library.
 
 ## Deutsch
 
-Diese App ist die einzige Weboberfläche im Projekt. Neue Tests werden über Daten und Assets ergänzt, nicht durch weitere Apps.
+Diese App ist die einzige Weboberfläche im Projekt. Neue Tests werden über Daten und Assets ergänzt, nicht durch weitere Apps. Die Oberfläche nutzt Material UI als React-Komponenten- und Theme-System.
 
 ### Funktionen
 
 - Auswahl nach Niveau: A1, A2, B1, B2
+- Material UI Theme, Komponenten, Buttons, Tabs, Cards und Eingabefelder
 - Testauswahl innerhalb eines Niveaus
 - Originale PDF-Seiten links, interaktive Antworten rechts
 - Audio-Wiedergabe für Hörteile
@@ -59,11 +60,12 @@ src/data/b1PracticeQuestions.ts
 
 ## English
 
-This app is the single web interface in the project. New tests are added through data and assets, not through additional apps.
+This app is the single web interface in the project. New tests are added through data and assets, not through additional apps. The interface uses Material UI as the React component and theme system.
 
 ### Features
 
 - Level selection: A1, A2, B1, B2
+- Material UI theme, components, buttons, tabs, cards and input fields
 - Test selection inside each level
 - Original PDF pages on the left, interactive answers on the right
 - Audio playback for listening sections
