@@ -474,6 +474,7 @@ function TestRunner({ test, onBack }: { test: ModelTest; onBack: () => void }) {
               const selected = answers[question.id]
               const isCorrect = selected === question.answer
               const resultLabel = !selected ? 'nicht beantwortet' : isCorrect ? 'richtig' : 'falsch'
+              const useCompactOptions = question.section === 'lesen-2' && order[question.id].length > 3
               return (
                 <Paper
                   key={question.id}
@@ -499,9 +500,21 @@ function TestRunner({ test, onBack }: { test: ModelTest; onBack: () => void }) {
                       setAnswers((current) => ({ ...current, [question.id]: value }))
                       setChecked(false)
                     }}
-                    orientation="vertical"
+                    orientation={useCompactOptions ? undefined : 'vertical'}
                     fullWidth
-                    sx={{ p: 2, gap: 1, '& .MuiToggleButtonGroup-grouped': { border: 1, borderColor: 'divider', borderRadius: '8px !important' } }}
+                    sx={{
+                      display: 'grid',
+                      gridTemplateColumns: useCompactOptions ? { xs: '1fr', sm: 'repeat(2, minmax(0, 1fr))' } : '1fr',
+                      p: 2,
+                      gap: 1,
+                      '& .MuiToggleButtonGroup-grouped': {
+                        width: '100%',
+                        border: 1,
+                        borderColor: 'divider',
+                        borderRadius: '8px !important',
+                        margin: '0 !important',
+                      },
+                    }}
                   >
                     {order[question.id].map((option, index) => {
                       const display = option.id === 'x' ? 'x' : String.fromCharCode(97 + index)
