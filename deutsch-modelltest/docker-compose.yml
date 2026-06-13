@@ -1,0 +1,8 @@
+services:
+  deutsch-modelltest:
+    build: .
+    image: deutsch-modelltest:latest
+    container_name: deutsch-modelltest
+    restart: unless-stopped
+    ports:
+      - "8085:80"

@@ -82,7 +82,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         },
         {
           "id": "c",
-          "text": "den geplanten Schulausflug bestätigen £ £ £"
+          "text": "den geplanten Schulausflug bestätigen"
         }
       ]
     },
@@ -194,7 +194,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 10,
       "section": "hoeren-3",
-      "prompt": "Die Kundin ist umgezogen und sucht neue Möbel richtig/falsch",
+      "prompt": "Die Kundin ist umgezogen und sucht neue Möbel",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -232,7 +232,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 12,
       "section": "hoeren-3",
-      "prompt": "Die Frau möchte mit einem Hund ins Taxi einsteigen richtig/falsch",
+      "prompt": "Die Frau möchte mit einem Hund ins Taxi einsteigen",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -270,7 +270,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 14,
       "section": "hoeren-3",
-      "prompt": "Die Frau und der Mann machen gemeinsam eine Diät richtig/falsch",
+      "prompt": "Die Frau und der Mann machen gemeinsam eine Diät",
       "answer": "falsch",
       "shuffle": false,
       "options": [
@@ -308,7 +308,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 16,
       "section": "hoeren-3",
-      "prompt": "Die Frau hat eine neue Arbeit gefunden richtig/falsch",
+      "prompt": "Die Frau hat eine neue Arbeit gefunden",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -340,22 +340,6 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         {
           "id": "c",
           "text": "war vier Monate arbeitslos"
-        },
-        {
-          "id": "a",
-          "text": "muss ins Krankenhaus"
-        },
-        {
-          "id": "b",
-          "text": "fährt für ein paar Tage weg"
-        },
-        {
-          "id": "c",
-          "text": "liest keine Zeitungen £ £ richtig falsch £ £ £"
-        },
-        {
-          "id": "c",
-          "text": "Hören"
         }
       ]
     },
@@ -423,10 +407,6 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         {
           "id": "f",
           "text": "Gezieltes Muskeltraining entlastet die Wirbelsäule."
-        },
-        {
-          "id": "f",
-          "text": "Hören"
         }
       ]
     },
@@ -532,18 +512,6 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         {
           "id": "c",
           "text": "anderes Stockwerk"
-        },
-        {
-          "id": "a",
-          "text": "EG"
-        },
-        {
-          "id": "b",
-          "text": "4. OG"
-        },
-        {
-          "id": "c",
-          "text": "anderes Stockwerk £ £ £"
         }
       ]
     },
@@ -618,7 +586,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 30,
       "section": "lesen-2",
-      "prompt": "Sie möchten einen wertvollen, alten Kasten verkaufen. Lesen",
+      "prompt": "Sie möchten einen wertvollen, alten Kasten verkaufen.",
       "answer": "falsch",
       "shuffle": false,
       "options": [
@@ -635,7 +603,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 31,
       "section": "lesen-3",
-      "prompt": "Alle Mitglieder von einem Verein sollen sich treffen richtig/falsch",
+      "prompt": "Alle Mitglieder von einem Verein sollen sich treffen",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -673,7 +641,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 33,
       "section": "lesen-3",
-      "prompt": "Mehr körperliche Bewegung soll gefördert werden richtig/falsch",
+      "prompt": "Mehr körperliche Bewegung soll gefördert werden",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -704,14 +672,14 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         },
         {
           "id": "c",
-          "text": "dass sich ältere Menschen überhaupt nicht gesund bewegen Gesund durch mehr Bewegung Eine aktuelle Studie über das Bewegungsverhalten der öster reichischen Bevölkerung zeigt, dass sich viele Menschen in Österreich zu wenig bewegen. Nur etwa 20 Prozent der 11- bis 15-jährigen Schulkinder be wegen ihren Körper so, dass die körperliche Bewegung ihre Gesundheit fördert. Bei den Erwachsenen ist es nicht viel besser: Hier bewegt sich nur zirka ein Viertel aller Erwachsenen so, dass es gesundheits- fördernd ist. Mehr als ein Drittel der Bevölkerung betreibt keine körperlichen Aktivitäten, die wenigstens ein bisschen anstrengend sind. Je älter die Menschen sind, desto weniger bewegen sie sich. Bei älteren Menschen nimmt der Anteil an Personen, die min- destens einmal pro Woche wegen ihrer körperlichen Aktivität ins Schwitzen kommen, deutlich ab. Die Förderung der Gesundheit durch mehr Bewegung ist daher in jedem Alter dringend notwendig. Lesen"
+          "text": "dass sich ältere Menschen überhaupt nicht gesund bewegen"
         }
       ]
     },
     {
       "id": 35,
       "section": "lesen-3",
-      "prompt": "Herr Broder hat seine Bestellung nicht bezahlt richtig/falsch",
+      "prompt": "Herr Broder hat seine Bestellung nicht bezahlt",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -749,7 +717,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 37,
       "section": "lesen-4",
-      "prompt": "Man darf bis 22.00 Uhr laut Musik hören. richtig/falsch",
+      "prompt": "Man darf bis 22.00 Uhr laut Musik hören.",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -766,7 +734,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 38,
       "section": "lesen-4",
-      "prompt": "Wenn man auszieht, darf man sich einen Wohnungsschlüssel behalten. richtig/falsch",
+      "prompt": "Wenn man auszieht, darf man sich einen Wohnungsschlüssel behalten.",
       "answer": "falsch",
       "shuffle": false,
       "options": [
@@ -783,7 +751,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 39,
       "section": "lesen-4",
-      "prompt": "Man darf das Haustor zusperren. richtig/falsch Hausordnung Reinigung, Sauberkeit Alle Mitbewohner müssen die Räume und Flä- chen, die sie gemietet haben, reinigen und sauber halten. Der Müll muss in den Müllraum gebracht werden. Beschädigungen Wer etwas in den Gemeinschaftsräumen absicht- lich beschädigt, muss den Schaden bezahlen. Keine Bau-Veränderungen an den Wohnungen Die Mieterinnen und Mieter dürfen ohne Bewilli- gung des Hauseigentümers keine Wand einrei- ßen. Niemand darf ohne Bewilligung des Haus- eigentümers in seiner Wohnung eine neue Wand bauen. Auszug Wenn jemand auszieht, dann muss die Wohnung so zurückgegeben werden, wie sie am Anfang übernommen wurde. Schäden müssen repariert werden. Alle Schlüssel müssen zurückgegeben werden. Friedliches Zusammenleben Alle Mieterinnen und Mieter und ihre Familien sollen im Haus friedlich zusammenleben. Der Hausfrieden soll nicht gestört werden. Nachtruhe In der Zeit von 22.00 Uhr bis 6.00 Uhr darf die Nachtruhe nicht gestört werden. An Sonn- und Feiertagen darf die Wochenend-Ruhe nicht ge- stört werden. Radio, Musik und Fernsehen sind in dieser Zeit nur in Zimmerlautstärke erlaubt. Für das Spiel der Kinder stehen der Kinderspielraum und der Kleinkinderspielplatz zur Verfügung. Haustor Das Haustor muss geschlossen sein, darf aber nicht mit einem Schlüssel abgesperrt werden. Haustiere Das Halten von Haustieren ist nur nach schriftli- cher Genehmigung der Hausverwaltung erlaubt. Gefährliche Tiere oder Tiere, die nicht in eine Wohnung gehören, sind verboten. Lesen",
+      "prompt": "Man darf das Haustor zusperren.",
       "answer": "falsch",
       "shuffle": false,
       "options": [
@@ -1005,7 +973,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         },
         {
           "id": "c",
-          "text": "eine Teilnehmerin anmelden £ £ £"
+          "text": "eine Teilnehmerin anmelden"
         }
       ]
     },
@@ -1117,7 +1085,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 10,
       "section": "hoeren-3",
-      "prompt": "Die Tochter hat eine Allergie. richtig/falsch",
+      "prompt": "Die Tochter hat eine Allergie.",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -1155,7 +1123,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 12,
       "section": "hoeren-3",
-      "prompt": "Der Rucksack war im Fundbüro. richtig/falsch",
+      "prompt": "Der Rucksack war im Fundbüro.",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -1193,7 +1161,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 14,
       "section": "hoeren-3",
-      "prompt": "Die Jacke war zu klein. richtig/falsch",
+      "prompt": "Die Jacke war zu klein.",
       "answer": "falsch",
       "shuffle": false,
       "options": [
@@ -1231,7 +1199,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 16,
       "section": "hoeren-3",
-      "prompt": "Der Nachbar bedankt sich bei Familie Klieber mit einer Einladung zum Essen. richtig/falsch",
+      "prompt": "Der Nachbar bedankt sich bei Familie Klieber mit einer Einladung zum Essen.",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -1263,22 +1231,6 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         {
           "id": "c",
           "text": "geht nach der Schule immer nach Hause."
-        },
-        {
-          "id": "a",
-          "text": "muss ins Krankenhaus"
-        },
-        {
-          "id": "b",
-          "text": "fährt für ein paar Tage weg"
-        },
-        {
-          "id": "c",
-          "text": "liest keine Zeitungen £ £ richtig falsch £ £ £"
-        },
-        {
-          "id": "c",
-          "text": "Hören"
         }
       ]
     },
@@ -1346,10 +1298,6 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         {
           "id": "f",
           "text": "Gesundheit ist wichtiger als Geld."
-        },
-        {
-          "id": "f",
-          "text": "Hören"
         }
       ]
     },
@@ -1455,18 +1403,6 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         {
           "id": "c",
           "text": "andere Halle"
-        },
-        {
-          "id": "a",
-          "text": "Halle A"
-        },
-        {
-          "id": "b",
-          "text": "Halle D"
-        },
-        {
-          "id": "c",
-          "text": "andere Halle £ £ £"
         }
       ]
     },
@@ -1541,7 +1477,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 30,
       "section": "lesen-2",
-      "prompt": "Ein Freund von Ihnen hat eine schwierige Lebenssituation und braucht Beratung. Lesen",
+      "prompt": "Ein Freund von Ihnen hat eine schwierige Lebenssituation und braucht Beratung.",
       "answer": "falsch",
       "shuffle": false,
       "options": [
@@ -1558,7 +1494,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 31,
       "section": "lesen-3",
-      "prompt": "Wenig Schlaf fördert die Intelligenz richtig/falsch",
+      "prompt": "Wenig Schlaf fördert die Intelligenz",
       "answer": "falsch",
       "shuffle": false,
       "options": [
@@ -1589,14 +1525,14 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         },
         {
           "id": "c",
-          "text": "hat eine kürzere Lebenserwartung Neueste wissenschaftliche Forschungen über den Schlaf Internationale Wissenschaftler haben schon oft den Schlaf unter- sucht. Dabei haben sie entdeckt, dass sich zu wenig Schlaf negativ auf die Intelligenz des Menschen auswirken kann. Der gesunde Schlaf soll mindestens 6-8 Stunden dauern. Wer weni- ger schläft, verliert bereits Intelligenzpunkte. Die Intelligenz nimmt also ab, wenn man zu wenig schläft! Aber die ganze Sache ist nicht endgültig. Wer nämlich danach wieder mehr schläft, kann sich die verlorene Intelligenz wieder zurückholen. Insgesamt belegen aber internationale Studien außerdem, dass bei- des – nämlich zu viel und zu wenig Schlaf – schlecht für die Gesund- heit ist. So wurde in einer Studie aus Finnland nachgewiesen, dass Menschen mit zu viel und Menschen mit zu wenig Schlaf eine kürzere Lebenser- wartung haben als Menschen, die regelmäßig 6-8 Stunden schlafen. Warum das so ist, ist noch nicht völlig geklärt."
+          "text": "hat eine kürzere Lebenserwartung"
         }
       ]
     },
     {
       "id": 33,
       "section": "lesen-3",
-      "prompt": "Fernwärmetechnik braucht in der Wohnung wenig Platz. richtig/falsch",
+      "prompt": "Fernwärmetechnik braucht in der Wohnung wenig Platz.",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -1627,14 +1563,14 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         },
         {
           "id": "c",
-          "text": "ist besonders billig. Vor- und Nachteile der Fernwärme Fernwärme hat viele Vor- aber auch Nachteile. Folgende Punkte kann man zu den Vorteilen der Fernwärme zählen: • Für eine Fernwärme-Heizung brauchen Sie nicht viel Platz. Sie brauchen nur ein paar technische Kleinigkeiten und schon können Sie die Fernwärme nützen. • Bei der Fernwärme gibt es keine Abgase in Ihrer Wohnung. • Sie bekommen die Wärme „fertig“ ins Haus geliefert. Sie brauchen keinen Raum, um das Heiz material (zum"
+          "text": "ist besonders billig."
         }
       ]
     },
     {
       "id": 35,
       "section": "lesen-3",
-      "prompt": "Hier handelt es sich um Regeln, die für die Abreise wichtig sind. richtig/falsch",
+      "prompt": "Hier handelt es sich um Regeln, die für die Abreise wichtig sind.",
       "answer": "falsch",
       "shuffle": false,
       "options": [
@@ -1672,7 +1608,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 37,
       "section": "lesen-4",
-      "prompt": "Man soll eine Wanderung gut vorbereiten und genau planen. richtig/falsch",
+      "prompt": "Man soll eine Wanderung gut vorbereiten und genau planen.",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -1689,7 +1625,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 38,
       "section": "lesen-4",
-      "prompt": "Man soll anderen Personen sagen, wohin man geht und wann man zurückkommt. richtig/falsch",
+      "prompt": "Man soll anderen Personen sagen, wohin man geht und wann man zurückkommt.",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -1706,7 +1642,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 39,
       "section": "lesen-4",
-      "prompt": "Man soll in der Natur keinen Müll wegwerfen. richtig/falsch Die 10 Grundregeln für Wanderer 1. Prüfen Sie vor jeder Bergtour Ihre persönliche Fitness und Gesundheit und schätzen Sie Ihre Kräfte und jene Ihrer Begleiter - insbesondere jene Ihrer Kinder – richtig ein. Danach richtet sich die Länge der Tour. 2. Planen Sie jede Tour genau. Informationen aus Wanderkarten, von Vermietern und Hüttenwirten können dabei sehr hilfreich sein. 3. Achten Sie auf die erforderliche Ausrüstung, auf ausreichend zu Essen und zu Trinken und auf die Wettervorhersage. 4. Geben Sie anderen Personen Ihr Wanderziel sowie gegebenenfalls die geplante Rückkehrzeit bekannt. Tragen Sie Ziel- und Wegroute in den Hütten- und Gipfelbüchern ein. Im Notfall hilft das, Sie leicht und schnell zu finden. 5. Passen Sie das Tempo Ihrer Kondition und jener Ihrer Partner an. Das Tempo orientiert sich stets am schwächsten Mitglied einer Gruppe. Zu schnelles Gehen führt schnell zur Müdigkeit. Bedenken Sie: Sie brauchen auch noch Kraft für den Rückweg. 6. Bleiben Sie auf den markierten Wegen. Das Begehen steiler Grashänge (besonders bei Näs- se), Schneefelder oder Gletscher birgt immer Gefahren in sich. 7. Achten Sie auf Steinschlag, der oft von Tieren wie Gämsen, Schafen, etc. ausgelöst werden kann und treten Sie selbst keine Steine ab. Sie gefährden damit andere Bergwanderer. 8. Gehen Sie zurück, wenn schlechtes Wetter kommt oder wenn Sie keine Kraft mehr haben. Dies ist keine Schande, sondern ein Zeichen der Vorsicht! 9. Bewahren Sie Ruhe, wenn ein Unfall passiert! Versuchen Sie Hilfe zu holen. 10. Halten Sie die Berge sauber! Nehmen Sie leere Getränkeflaschen, Dosen oder Abfall wieder mit. Lesen",
+      "prompt": "Man soll in der Natur keinen Müll wegwerfen.",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -1928,7 +1864,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         },
         {
           "id": "c",
-          "text": "bei der Krankenkasse bezahlen £ £ £"
+          "text": "bei der Krankenkasse bezahlen"
         }
       ]
     },
@@ -2040,7 +1976,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 10,
       "section": "hoeren-3",
-      "prompt": "Frau Berger hat sich für den Job schon einmal beworben. richtig/falsch",
+      "prompt": "Frau Berger hat sich für den Job schon einmal beworben.",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -2078,7 +2014,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 12,
       "section": "hoeren-3",
-      "prompt": "Die Frau und der Mann sind Nachbarn. richtig/falsch",
+      "prompt": "Die Frau und der Mann sind Nachbarn.",
       "answer": "falsch",
       "shuffle": false,
       "options": [
@@ -2116,7 +2052,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 14,
       "section": "hoeren-3",
-      "prompt": "Die Frau ist überrascht über das Jobangebot. richtig/falsch",
+      "prompt": "Die Frau ist überrascht über das Jobangebot.",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -2154,7 +2090,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 16,
       "section": "hoeren-3",
-      "prompt": "Die Frau verreist für längere Zeit. richtig/falsch",
+      "prompt": "Die Frau verreist für längere Zeit.",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -2186,22 +2122,6 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         {
           "id": "c",
           "text": "kann gut mit Pflanzen umgehen."
-        },
-        {
-          "id": "a",
-          "text": "muss ins Krankenhaus"
-        },
-        {
-          "id": "b",
-          "text": "fährt für ein paar Tage weg"
-        },
-        {
-          "id": "c",
-          "text": "liest keine Zeitungen £ £ richtig falsch £ £ £"
-        },
-        {
-          "id": "c",
-          "text": "Hören"
         }
       ]
     },
@@ -2269,10 +2189,6 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         {
           "id": "f",
           "text": "Wer Sport betreibt und sich gut ernährt, braucht manchmal weniger Schlaf."
-        },
-        {
-          "id": "f",
-          "text": "Hören"
         }
       ]
     },
@@ -2378,18 +2294,6 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         {
           "id": "c",
           "text": "anderes Stockwerk"
-        },
-        {
-          "id": "a",
-          "text": "EG"
-        },
-        {
-          "id": "b",
-          "text": "4. OG"
-        },
-        {
-          "id": "c",
-          "text": "anderes Stockwerk £ £ £"
         }
       ]
     },
@@ -2464,7 +2368,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 30,
       "section": "lesen-2",
-      "prompt": "Sie suchen ein Buch über richtiges Laufen. Lesen",
+      "prompt": "Sie suchen ein Buch über richtiges Laufen.",
       "answer": "falsch",
       "shuffle": false,
       "options": [
@@ -2481,7 +2385,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 31,
       "section": "lesen-3",
-      "prompt": "Die Mitarbeiter/innen bekommen für ihre Anwesenheit von 9.00 h bis 17.00 Uhr nichts bezahlt. richtig/falsch",
+      "prompt": "Die Mitarbeiter/innen bekommen für ihre Anwesenheit von 9.00 h bis 17.00 Uhr nichts bezahlt.",
       "answer": "falsch",
       "shuffle": false,
       "options": [
@@ -2512,38 +2416,14 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         },
         {
           "id": "c",
-          "text": "bezahlen die Mitarbeiter/innen das Abendessen selbst. Interne Information an alle Mitarbeiter/innen Liebe Kolleg/innen Ich möchte Sie alle herzlich zu unser jährlichen Mitarbeiter/innen-Versammlung einladen. Die Versammlung findet am nächsten Freitag im Besprechungssaal 8.6.E. statt. Es herrscht Anwesenheitspflicht in der Zeit von 9.00 Uhr bis 17.00 Uhr. Diese Zeit gilt als Arbeitszeit. Folgende Tagesordnungspunkte werden bei der Mitarbeiter/innenversammlung besprochen:"
-        },
-        {
-          "id": "a",
-          "text": "Jahresrückblick (besondere Erfolge, bestehen gebliebene Herausforderungen)"
-        },
-        {
-          "id": "b",
-          "text": "Ein Blick in die Zukunft (Pläne, Projekte der Zukunft)"
-        },
-        {
-          "id": "c",
-          "text": "Mittagspause (13.00 Uhr – 14.00 Uhr)"
-        },
-        {
-          "id": "d",
-          "text": "Projektpräsentationen der Abteilungen sowie der Filialen und Zweigstellen im Ausland"
-        },
-        {
-          "id": "e",
-          "text": "Soft-Skill-Training für Mitarbeiter/innen"
-        },
-        {
-          "id": "f",
-          "text": "Abschlussrede durch CEO, Konzernchefin (Ende: 17.00 Uhr) Im Anschluss an die Mitarbeiter/innenversammlung sind Sie herzlich zu einem Abendessen eingeladen. (Adresse wird noch bekannt gegeben) Dr. Philipp Stern (Personalbüro)"
+          "text": "bezahlen die Mitarbeiter/innen das Abendessen selbst."
         }
       ]
     },
     {
       "id": 33,
       "section": "lesen-3",
-      "prompt": "Wissenschaftler/innen glauben, dass die Temperaturen weltweit ansteigen. richtig/falsch",
+      "prompt": "Wissenschaftler/innen glauben, dass die Temperaturen weltweit ansteigen.",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -2574,14 +2454,14 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
         },
         {
           "id": "c",
-          "text": "dass der Indische Ozean am Ende seiner Existenz sein wird. Folgen des Klimawandels Aktuelle Studien wollen beweisen, dass bis zum Jahr 2050 mehr als die Hälfte der jetzt noch vorhandenen Eisfläche am Nordpol nicht mehr existieren wird. Die dramatischen Folgen der Erder- wärmung sind enorm: Durch das Schmelzen der Eisflächen am Nord- und am Südpol wird der Meeresspiegel weltweit um bis zu einen Meter ansteigen. Für manche Inseln im Indischen Oze- an bedeutet dieser Anstieg des Meeresspiegels das Ende ihrer Existenz. „Der Klimawandel ist nicht mehr aufzuhalten“, sind sich Wissen- schaftler/innen auf der ganzen Welt einig. Die Erderwärmung wird neben den anderen Krisen in der Welt zu Massenwanderungen und großen Flüchtlingsströmen füh- ren. Große Gebiete auf der ganzen Welt könnten innerhalb der nächsten Jahrzehnte von Dürre und Trockenheit betroffen sein. Viele Menschen werden zu „Umweltflüchtlingen“, warnen Ex- pert/innen. Lesen"
+          "text": "dass der Indische Ozean am Ende seiner Existenz sein wird."
         }
       ]
     },
     {
       "id": 35,
       "section": "lesen-3",
-      "prompt": "Frau Domenig hat aus dem Katalog eine Jacke bestellt, die nicht mehr lieferbar war. richtig/falsch",
+      "prompt": "Frau Domenig hat aus dem Katalog eine Jacke bestellt, die nicht mehr lieferbar war.",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -2619,7 +2499,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 37,
       "section": "lesen-4",
-      "prompt": "Kinder unter 12 Jahre dürfen alleine in den Zoo gehen. richtig/falsch",
+      "prompt": "Kinder unter 12 Jahre dürfen alleine in den Zoo gehen.",
       "answer": "falsch",
       "shuffle": false,
       "options": [
@@ -2636,7 +2516,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 38,
       "section": "lesen-4",
-      "prompt": "Die Eintrittskarte soll man erst wegwerfen, wenn man den Zoo verlässt. richtig/falsch",
+      "prompt": "Die Eintrittskarte soll man erst wegwerfen, wenn man den Zoo verlässt.",
       "answer": "richtig",
       "shuffle": false,
       "options": [
@@ -2653,7 +2533,7 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
     {
       "id": 39,
       "section": "lesen-4",
-      "prompt": "Sie dürfen Ihren Hund nur an der Leine in den Zoo mitnehmen. richtig/falsch Besucherordnung für den Zoo 1. Die Tiere im Zoo dürfen von Zoobesucher/ innen nicht gefüttert werden! Alle Tiere bekom- men von unseren Tierpfleger/innen ein spezielles Futter. 2. Es ist streng verboten, über die Absperrun- gen zu steigen oder die Hand hinter die Gitter zu strecken. Das ist sehr gefährlich für Tier und Mensch. 3. Versuchen Sie bitte nicht, die Aufmerksam- keit der Tiere durch lautes Rufen, Klopfen gegen Scheiben oder Ähnliches auf sich zu lenken. Auch Tiere brauchen ihre Ruhepausen. 4. Sie dürfen für private Zwecke filmen und fo- tografieren. Für gewerbliche Aufnahmen brau- chen Sie eine Genehmigung der Direktion. Bitte beachten Sie, dass bei manchen Tieren Blitzlicht verboten ist. 5. Kindern unter 12 Jahren ist der Besuch im Zoo aus Sicherheitsgründen nur in Begleitung von Erwachsenen gestattet. Eltern haften für ihre Kinder! 6. Das Fahren mit Fahrrädern, Rollschuhen, Inline-Skates, Skateboards, Scootern und Ähn- lichem ist zu Ihrer eigenen Sicherheit verboten. Ebenso das Spielen mit Bällen, usw. 7. Das Mitbringen von Hunden ist aus Sicher- heits- und Gesundheitsgründen nicht gestattet. 8. Bitte benutzen Sie die bereitstehenden Ab- falleimer und helfen Sie mit, den Zoo sauber zu halten. 9. Die Eintrittskarte ist während des gesamten Zoo-Besuchs aufzubewahren und bei Aufforde- rung vorzuzeigen. 10. Bitte beachten Sie die Schließzeiten des Zoos, da wenig später der Ausgang geschlossen wird. 11. Weisungen des Zoopersonals sind unbedingt Folge zu leisten. Das Zoopersonal ist berechtigt, Besucher, die sich nicht an die Besucherordnung halten, aus dem Zoo zu weisen. Lesen",
+      "prompt": "Sie dürfen Ihren Hund nur an der Leine in den Zoo mitnehmen.",
       "answer": "falsch",
       "shuffle": false,
       "options": [

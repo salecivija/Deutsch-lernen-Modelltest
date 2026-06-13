@@ -253,6 +253,7 @@ function TestRunner({ test, onBack }: { test: ModelTest; onBack: () => void }) {
   const [order, setOrder] = useState<Record<number, Option[]>>(() => makeOrder(test))
   const [checked, setChecked] = useState(false)
   const [writing, setWriting] = useState('')
+  const [writingText, setWritingText] = useState('')
   const [speaking, setSpeaking] = useState('')
 
   const stats = useMemo(() => {
@@ -266,6 +267,7 @@ function TestRunner({ test, onBack }: { test: ModelTest; onBack: () => void }) {
     setOrder(makeOrder(test))
     setChecked(false)
     setWriting('')
+    setWritingText('')
     setSpeaking('')
   }
 
@@ -516,6 +518,38 @@ function TestRunner({ test, onBack }: { test: ModelTest; onBack: () => void }) {
                 </Paper>
               )
             })}
+
+            {active.id === 'schreiben' && (
+              <Paper variant="outlined" sx={{ p: { xs: 2, md: 3 }, bgcolor: 'background.paper' }}>
+                <Stack spacing={2}>
+                  <Box>
+                    <Typography variant="h6">Schreiben</Typography>
+                    <Typography color="text.secondary">
+                      Schreiben Sie Ihre Antwort hier direkt neben der Aufgabenstellung.
+                    </Typography>
+                  </Box>
+                  <TextField
+                    label="Text schreiben"
+                    value={writingText}
+                    onChange={(event) => setWritingText(event.target.value)}
+                    multiline
+                    minRows={22}
+                    fullWidth
+                    placeholder="Beginnen Sie hier mit Ihrem Text..."
+                    slotProps={{
+                      input: {
+                        sx: {
+                          alignItems: 'flex-start',
+                          fontSize: 18,
+                          lineHeight: 1.65,
+                          minHeight: { xs: 520, md: 680 },
+                        },
+                      },
+                    }}
+                  />
+                </Stack>
+              </Paper>
+            )}
 
             {hasInteractiveQuestions && hasManualScore && (
               <Paper variant="outlined" sx={{ p: 3, bgcolor: 'background.paper' }}>
