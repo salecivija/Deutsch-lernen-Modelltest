@@ -519,16 +519,44 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 26,
       "section": "lesen-2",
       "prompt": "Eine Freundin von Ihnen sucht eine Stelle als Verkäuferin für Möbel oder Textilien.",
-      "answer": "falsch",
+      "answer": "b",
       "shuffle": false,
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Anzeige a"
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Anzeige b"
+        },
+        {
+          "id": "c",
+          "text": "Anzeige c"
+        },
+        {
+          "id": "d",
+          "text": "Anzeige d"
+        },
+        {
+          "id": "e",
+          "text": "Anzeige e"
+        },
+        {
+          "id": "f",
+          "text": "Anzeige f"
+        },
+        {
+          "id": "g",
+          "text": "Anzeige g"
+        },
+        {
+          "id": "h",
+          "text": "Anzeige h"
+        },
+        {
+          "id": "x",
+          "text": "keine L?sung"
         }
       ]
     },
@@ -536,16 +564,44 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 27,
       "section": "lesen-2",
       "prompt": "Sie suchen für Ihren Neffen gute Möbel für sein Zimmer. Er ist 16 Jahre alt.",
-      "answer": "falsch",
+      "answer": "g",
       "shuffle": false,
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Anzeige a"
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Anzeige b"
+        },
+        {
+          "id": "c",
+          "text": "Anzeige c"
+        },
+        {
+          "id": "d",
+          "text": "Anzeige d"
+        },
+        {
+          "id": "e",
+          "text": "Anzeige e"
+        },
+        {
+          "id": "f",
+          "text": "Anzeige f"
+        },
+        {
+          "id": "g",
+          "text": "Anzeige g"
+        },
+        {
+          "id": "h",
+          "text": "Anzeige h"
+        },
+        {
+          "id": "x",
+          "text": "keine L?sung"
         }
       ]
     },
@@ -553,16 +609,44 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 28,
       "section": "lesen-2",
       "prompt": "Sie suchen ein Klavier.",
-      "answer": "falsch",
+      "answer": "x",
       "shuffle": false,
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Anzeige a"
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Anzeige b"
+        },
+        {
+          "id": "c",
+          "text": "Anzeige c"
+        },
+        {
+          "id": "d",
+          "text": "Anzeige d"
+        },
+        {
+          "id": "e",
+          "text": "Anzeige e"
+        },
+        {
+          "id": "f",
+          "text": "Anzeige f"
+        },
+        {
+          "id": "g",
+          "text": "Anzeige g"
+        },
+        {
+          "id": "h",
+          "text": "Anzeige h"
+        },
+        {
+          "id": "x",
+          "text": "keine L?sung"
         }
       ]
     },
@@ -570,16 +654,44 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 29,
       "section": "lesen-2",
       "prompt": "Sie suchen ganz neu gemachte Möbel in guter Qualität.",
-      "answer": "falsch",
+      "answer": "h",
       "shuffle": false,
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Anzeige a"
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Anzeige b"
+        },
+        {
+          "id": "c",
+          "text": "Anzeige c"
+        },
+        {
+          "id": "d",
+          "text": "Anzeige d"
+        },
+        {
+          "id": "e",
+          "text": "Anzeige e"
+        },
+        {
+          "id": "f",
+          "text": "Anzeige f"
+        },
+        {
+          "id": "g",
+          "text": "Anzeige g"
+        },
+        {
+          "id": "h",
+          "text": "Anzeige h"
+        },
+        {
+          "id": "x",
+          "text": "keine L?sung"
         }
       ]
     },
@@ -587,16 +699,44 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 30,
       "section": "lesen-2",
       "prompt": "Sie möchten einen wertvollen, alten Kasten verkaufen.",
-      "answer": "falsch",
+      "answer": "e",
       "shuffle": false,
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Anzeige a"
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Anzeige b"
+        },
+        {
+          "id": "c",
+          "text": "Anzeige c"
+        },
+        {
+          "id": "d",
+          "text": "Anzeige d"
+        },
+        {
+          "id": "e",
+          "text": "Anzeige e"
+        },
+        {
+          "id": "f",
+          "text": "Anzeige f"
+        },
+        {
+          "id": "g",
+          "text": "Anzeige g"
+        },
+        {
+          "id": "h",
+          "text": "Anzeige h"
+        },
+        {
+          "id": "x",
+          "text": "keine L?sung"
         }
       ]
     },
@@ -1410,16 +1550,44 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 26,
       "section": "lesen-2",
       "prompt": "Sie suchen eine Firma, die die schmutzige Außenwand eines Hauses reinigt.",
-      "answer": "richtig",
+      "answer": "a",
       "shuffle": false,
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Anzeige a"
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Anzeige b"
+        },
+        {
+          "id": "c",
+          "text": "Anzeige c"
+        },
+        {
+          "id": "d",
+          "text": "Anzeige d"
+        },
+        {
+          "id": "e",
+          "text": "Anzeige e"
+        },
+        {
+          "id": "f",
+          "text": "Anzeige f"
+        },
+        {
+          "id": "g",
+          "text": "Anzeige g"
+        },
+        {
+          "id": "h",
+          "text": "Anzeige h"
+        },
+        {
+          "id": "x",
+          "text": "keine L?sung"
         }
       ]
     },
@@ -1427,16 +1595,44 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 27,
       "section": "lesen-2",
       "prompt": "Sie möchten eine Reise nach Afrika und Asien buchen.",
-      "answer": "falsch",
+      "answer": "f",
       "shuffle": false,
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Anzeige a"
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Anzeige b"
+        },
+        {
+          "id": "c",
+          "text": "Anzeige c"
+        },
+        {
+          "id": "d",
+          "text": "Anzeige d"
+        },
+        {
+          "id": "e",
+          "text": "Anzeige e"
+        },
+        {
+          "id": "f",
+          "text": "Anzeige f"
+        },
+        {
+          "id": "g",
+          "text": "Anzeige g"
+        },
+        {
+          "id": "h",
+          "text": "Anzeige h"
+        },
+        {
+          "id": "x",
+          "text": "keine L?sung"
         }
       ]
     },
@@ -1444,16 +1640,44 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 28,
       "section": "lesen-2",
       "prompt": "Sie möchten Chinesisch lernen.",
-      "answer": "falsch",
+      "answer": "x",
       "shuffle": false,
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Anzeige a"
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Anzeige b"
+        },
+        {
+          "id": "c",
+          "text": "Anzeige c"
+        },
+        {
+          "id": "d",
+          "text": "Anzeige d"
+        },
+        {
+          "id": "e",
+          "text": "Anzeige e"
+        },
+        {
+          "id": "f",
+          "text": "Anzeige f"
+        },
+        {
+          "id": "g",
+          "text": "Anzeige g"
+        },
+        {
+          "id": "h",
+          "text": "Anzeige h"
+        },
+        {
+          "id": "x",
+          "text": "keine L?sung"
         }
       ]
     },
@@ -1461,16 +1685,44 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 29,
       "section": "lesen-2",
       "prompt": "Sie möchten sich erholen und dabei etwas für Ihre körperliche Gesundheit tun.",
-      "answer": "falsch",
+      "answer": "b",
       "shuffle": false,
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Anzeige a"
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Anzeige b"
+        },
+        {
+          "id": "c",
+          "text": "Anzeige c"
+        },
+        {
+          "id": "d",
+          "text": "Anzeige d"
+        },
+        {
+          "id": "e",
+          "text": "Anzeige e"
+        },
+        {
+          "id": "f",
+          "text": "Anzeige f"
+        },
+        {
+          "id": "g",
+          "text": "Anzeige g"
+        },
+        {
+          "id": "h",
+          "text": "Anzeige h"
+        },
+        {
+          "id": "x",
+          "text": "keine L?sung"
         }
       ]
     },
@@ -1478,16 +1730,44 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 30,
       "section": "lesen-2",
       "prompt": "Ein Freund von Ihnen hat eine schwierige Lebenssituation und braucht Beratung.",
-      "answer": "falsch",
+      "answer": "d",
       "shuffle": false,
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Anzeige a"
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Anzeige b"
+        },
+        {
+          "id": "c",
+          "text": "Anzeige c"
+        },
+        {
+          "id": "d",
+          "text": "Anzeige d"
+        },
+        {
+          "id": "e",
+          "text": "Anzeige e"
+        },
+        {
+          "id": "f",
+          "text": "Anzeige f"
+        },
+        {
+          "id": "g",
+          "text": "Anzeige g"
+        },
+        {
+          "id": "h",
+          "text": "Anzeige h"
+        },
+        {
+          "id": "x",
+          "text": "keine L?sung"
         }
       ]
     },
@@ -2301,16 +2581,44 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 26,
       "section": "lesen-2",
       "prompt": "Sie möchten Deutsch lernen, haben aber am Freitag, Samstag und Sonntag keine Zeit.",
-      "answer": "falsch",
+      "answer": "d",
       "shuffle": false,
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Anzeige a"
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Anzeige b"
+        },
+        {
+          "id": "c",
+          "text": "Anzeige c"
+        },
+        {
+          "id": "d",
+          "text": "Anzeige d"
+        },
+        {
+          "id": "e",
+          "text": "Anzeige e"
+        },
+        {
+          "id": "f",
+          "text": "Anzeige f"
+        },
+        {
+          "id": "g",
+          "text": "Anzeige g"
+        },
+        {
+          "id": "h",
+          "text": "Anzeige h"
+        },
+        {
+          "id": "x",
+          "text": "keine L?sung"
         }
       ]
     },
@@ -2318,16 +2626,44 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 27,
       "section": "lesen-2",
       "prompt": "Sie suchen eine Firma, die Ihnen beim Übersiedeln hilft.",
-      "answer": "falsch",
+      "answer": "b",
       "shuffle": false,
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Anzeige a"
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Anzeige b"
+        },
+        {
+          "id": "c",
+          "text": "Anzeige c"
+        },
+        {
+          "id": "d",
+          "text": "Anzeige d"
+        },
+        {
+          "id": "e",
+          "text": "Anzeige e"
+        },
+        {
+          "id": "f",
+          "text": "Anzeige f"
+        },
+        {
+          "id": "g",
+          "text": "Anzeige g"
+        },
+        {
+          "id": "h",
+          "text": "Anzeige h"
+        },
+        {
+          "id": "x",
+          "text": "keine L?sung"
         }
       ]
     },
@@ -2335,16 +2671,44 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 28,
       "section": "lesen-2",
       "prompt": "Sie sind krankenversichert und möchten für einen Sehtest nicht selbst bezahlen.",
-      "answer": "falsch",
+      "answer": "h",
       "shuffle": false,
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Anzeige a"
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Anzeige b"
+        },
+        {
+          "id": "c",
+          "text": "Anzeige c"
+        },
+        {
+          "id": "d",
+          "text": "Anzeige d"
+        },
+        {
+          "id": "e",
+          "text": "Anzeige e"
+        },
+        {
+          "id": "f",
+          "text": "Anzeige f"
+        },
+        {
+          "id": "g",
+          "text": "Anzeige g"
+        },
+        {
+          "id": "h",
+          "text": "Anzeige h"
+        },
+        {
+          "id": "x",
+          "text": "keine L?sung"
         }
       ]
     },
@@ -2352,16 +2716,44 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 29,
       "section": "lesen-2",
       "prompt": "Sie möchten sich in einem Fitness-Center anmelden.",
-      "answer": "falsch",
+      "answer": "x",
       "shuffle": false,
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Anzeige a"
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Anzeige b"
+        },
+        {
+          "id": "c",
+          "text": "Anzeige c"
+        },
+        {
+          "id": "d",
+          "text": "Anzeige d"
+        },
+        {
+          "id": "e",
+          "text": "Anzeige e"
+        },
+        {
+          "id": "f",
+          "text": "Anzeige f"
+        },
+        {
+          "id": "g",
+          "text": "Anzeige g"
+        },
+        {
+          "id": "h",
+          "text": "Anzeige h"
+        },
+        {
+          "id": "x",
+          "text": "keine L?sung"
         }
       ]
     },
@@ -2369,16 +2761,44 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 30,
       "section": "lesen-2",
       "prompt": "Sie suchen ein Buch über richtiges Laufen.",
-      "answer": "falsch",
+      "answer": "f",
       "shuffle": false,
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Anzeige a"
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Anzeige b"
+        },
+        {
+          "id": "c",
+          "text": "Anzeige c"
+        },
+        {
+          "id": "d",
+          "text": "Anzeige d"
+        },
+        {
+          "id": "e",
+          "text": "Anzeige e"
+        },
+        {
+          "id": "f",
+          "text": "Anzeige f"
+        },
+        {
+          "id": "g",
+          "text": "Anzeige g"
+        },
+        {
+          "id": "h",
+          "text": "Anzeige h"
+        },
+        {
+          "id": "x",
+          "text": "keine L?sung"
         }
       ]
     },
