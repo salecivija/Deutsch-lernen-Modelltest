@@ -14,6 +14,11 @@ dist-ssr
 # Local material inbox. Do not edit, move or commit source drops from here.
 import/raw/
 
+# Private study notes generated locally
+test-*-schreiben-modeltexte.txt
+test-*-sprechen-modeltexte.txt
+import/B1/test-*/metadata/extracted-text/schreiben-modeltexte.txt
+
 # Editor and OS files
 .vscode/*
 !.vscode/extensions.json
