@@ -347,16 +347,31 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 18,
       "section": "hoeren-4",
       "prompt": "…",
-      "answer": "falsch",
-      "shuffle": false,
+      "answer": "b",
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Gegen Rückenschmerzen helfen nur Schmerztabletten."
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Schlechte Schuhe können eine Ursache für Rückenschmerzen sein."
+        },
+        {
+          "id": "c",
+          "text": "Wer im Beruf viel sitzen muss, soll zwischendurch aufstehen und turnen."
+        },
+        {
+          "id": "d",
+          "text": "Auch viele junge Menschen leiden bereits unter Rückenschmerzen."
+        },
+        {
+          "id": "e",
+          "text": "Man bekommt Rückenschmerzen, wenn man Bücher vom Boden aufhebt."
+        },
+        {
+          "id": "f",
+          "text": "Gezieltes Muskeltraining entlastet die Wirbelsäule."
         }
       ]
     },
@@ -364,16 +379,31 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 19,
       "section": "hoeren-4",
       "prompt": "…",
-      "answer": "falsch",
-      "shuffle": false,
+      "answer": "f",
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Gegen Rückenschmerzen helfen nur Schmerztabletten."
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Schlechte Schuhe können eine Ursache für Rückenschmerzen sein."
+        },
+        {
+          "id": "c",
+          "text": "Wer im Beruf viel sitzen muss, soll zwischendurch aufstehen und turnen."
+        },
+        {
+          "id": "d",
+          "text": "Auch viele junge Menschen leiden bereits unter Rückenschmerzen."
+        },
+        {
+          "id": "e",
+          "text": "Man bekommt Rückenschmerzen, wenn man Bücher vom Boden aufhebt."
+        },
+        {
+          "id": "f",
+          "text": "Gezieltes Muskeltraining entlastet die Wirbelsäule."
         }
       ]
     },
@@ -382,7 +412,6 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "section": "hoeren-4",
       "prompt": "…",
       "answer": "d",
-      "shuffle": true,
       "options": [
         {
           "id": "a",
@@ -1378,16 +1407,31 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 18,
       "section": "hoeren-4",
       "prompt": "…",
-      "answer": "falsch",
-      "shuffle": false,
+      "answer": "e",
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Zu wenig Geld macht nicht glücklich – zu viel Geld auch nicht."
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Nur wenig Geld macht glücklich."
+        },
+        {
+          "id": "c",
+          "text": "Wer viel arbeitet und viel Geld verdient, hat oft wenig Zeit für Freunde und Familie."
+        },
+        {
+          "id": "d",
+          "text": "Glück hat mit Geld nichts zu tun."
+        },
+        {
+          "id": "e",
+          "text": "Mit viel Geld kann man sich alles kaufen und man kann sich alle Wünsche erfüllen."
+        },
+        {
+          "id": "f",
+          "text": "Gesundheit ist wichtiger als Geld."
         }
       ]
     },
@@ -1395,16 +1439,31 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 19,
       "section": "hoeren-4",
       "prompt": "…",
-      "answer": "falsch",
-      "shuffle": false,
+      "answer": "f",
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Zu wenig Geld macht nicht glücklich – zu viel Geld auch nicht."
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Nur wenig Geld macht glücklich."
+        },
+        {
+          "id": "c",
+          "text": "Wer viel arbeitet und viel Geld verdient, hat oft wenig Zeit für Freunde und Familie."
+        },
+        {
+          "id": "d",
+          "text": "Glück hat mit Geld nichts zu tun."
+        },
+        {
+          "id": "e",
+          "text": "Mit viel Geld kann man sich alles kaufen und man kann sich alle Wünsche erfüllen."
+        },
+        {
+          "id": "f",
+          "text": "Gesundheit ist wichtiger als Geld."
         }
       ]
     },
@@ -1413,7 +1472,6 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "section": "hoeren-4",
       "prompt": "…",
       "answer": "a",
-      "shuffle": true,
       "options": [
         {
           "id": "a",
@@ -2409,16 +2467,31 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 18,
       "section": "hoeren-4",
       "prompt": "…",
-      "answer": "falsch",
-      "shuffle": false,
+      "answer": "e",
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Es gibt Menschen, die sind gerne in der Nacht aktiv und schlafen wenig in der Nacht."
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Wer am Tag schwer arbeitet, soll in der Nacht viel schlafen und sich erholen."
+        },
+        {
+          "id": "c",
+          "text": "Wer weniger als sieben Stunden schläft, kann tagsüber oft an Müdigkeit leiden."
+        },
+        {
+          "id": "d",
+          "text": "Es ist sehr gesund, wenn man mehr als 8 Stunden täglich schläft."
+        },
+        {
+          "id": "e",
+          "text": "Manche Menschen sagen, es ist gut, vor 24.00 Uhr ins Bett zu gehen."
+        },
+        {
+          "id": "f",
+          "text": "Wer Sport betreibt und sich gut ernährt, braucht manchmal weniger Schlaf."
         }
       ]
     },
@@ -2426,16 +2499,31 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "id": 19,
       "section": "hoeren-4",
       "prompt": "…",
-      "answer": "falsch",
-      "shuffle": false,
+      "answer": "f",
       "options": [
         {
-          "id": "richtig",
-          "text": "richtig"
+          "id": "a",
+          "text": "Es gibt Menschen, die sind gerne in der Nacht aktiv und schlafen wenig in der Nacht."
         },
         {
-          "id": "falsch",
-          "text": "falsch"
+          "id": "b",
+          "text": "Wer am Tag schwer arbeitet, soll in der Nacht viel schlafen und sich erholen."
+        },
+        {
+          "id": "c",
+          "text": "Wer weniger als sieben Stunden schläft, kann tagsüber oft an Müdigkeit leiden."
+        },
+        {
+          "id": "d",
+          "text": "Es ist sehr gesund, wenn man mehr als 8 Stunden täglich schläft."
+        },
+        {
+          "id": "e",
+          "text": "Manche Menschen sagen, es ist gut, vor 24.00 Uhr ins Bett zu gehen."
+        },
+        {
+          "id": "f",
+          "text": "Wer Sport betreibt und sich gut ernährt, braucht manchmal weniger Schlaf."
         }
       ]
     },
@@ -2444,7 +2532,6 @@ export const b1PracticeQuestions: Record<number, Question[]> = {
       "section": "hoeren-4",
       "prompt": "…",
       "answer": "a",
-      "shuffle": true,
       "options": [
         {
           "id": "a",
